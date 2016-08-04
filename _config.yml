@@ -10,11 +10,11 @@ title:            blueCFD-Core Project
 tagline:          'Enabling native use of OpenFOAM&reg; for Windows'
 description:      'Bringing OpenFOAM&reg; technology to Windows.'
 url:              blueCFD.github.io
-baseurl:          /Core
+baseurl:          http://blueCFD.github.io/Core/
 
 author:
   name:           'blueCAPE Lda'
-  url:            http://blueCFD.github.io/Core
+  url:            http://www.bluecape.com.pt
   email:          http://bluecfd.com/contact
 
 paginate:         3
