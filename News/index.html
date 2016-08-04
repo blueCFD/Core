@@ -11,8 +11,8 @@ title: News
         {{ post.title }}
       </a>
     </h1>
-    {{ post.content }}
     <span class="post-date">Date of article: {{ post.date | date: '%d/%m/%Y' }}</span>
+    {{ post.content }}
   </div>
   {% endfor %}
 </div>
