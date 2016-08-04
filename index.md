@@ -23,9 +23,9 @@ the following locations:
  * [Project News](/News)
  * [blueCAPE Lda Twitter](https://twitter.com/bluecapept)
 
-**Note**: Contributions and collaborating companies are very much welcome, but
-we're still working on the releases that we have planned. Please follow our
-news feeds to know when we start accepting contributions.
+**Note**: Contributions and collaboration with other companies are very much
+welcome, but we're still working on the releases that we have planned. Please
+follow our news feeds to know when we start accepting contributions.
 
 
 # Support
