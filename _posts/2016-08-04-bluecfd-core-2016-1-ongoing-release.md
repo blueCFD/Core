@@ -1,15 +1,13 @@
 ---
 layout: post
-title: blueCFD-Core 2016-1 in ongoing release mode
+title: blueCFD-Core 2016-1 heralds new release policy
 ---
 
-The next generation of blueCFD-Core has entered in the release mode of the
-newest version: blueCFD-Core 2016-1
+The source code for the next generation of blueCFD-Core have started to be
+released today. Released elements are:
 
-The releases made today are as follows:
+  * New project website: [http://bluecfd.github.io/Core/](http://bluecfd.github.io/Core/)
 
-  * New project website: http://bluecfd.github.io/Core/
-  
   * Released the source code modifications for OpenFOAM 4.x at the following
   repository branches:
 
@@ -19,13 +17,13 @@ The releases made today are as follows:
 
 
 The source code provided has most of the porting changes needed for making
-OpenFOAM 4.x build and run natively on Windows. What's missing is the development
+OpenFOAM 4.x build and run natively on Windows. What is missing is the development
 infrastructure, which will be released publicly and for free in the binary
 release of blueCFD-Core 2016-1.
 
 Said development infrastructure is based on [MSys2](https://msys2.github.io/)
 and instructions for developing in a clean installation of MSys2 will be
-provided at [openfoamwiki.net](http://openfoamwiki.net), after we've finalized
+provided at [openfoamwiki.net](http://openfoamwiki.net), after we have finalized
 the release of blueCFD-Core 2016-1.
 
 The release source code has been directly forked from the [OpenFOAM-dev](https://github.com/OpenFOAM/OpenFOAM-dev)

@@ -17,15 +17,15 @@ maintain usability when working within Microsoft Windows Operating Systems.
 The source code for the patched versions are tracked in the
 [blueCFD project at Github](http://github.com/blueCFD).
 
-This project is in continuous development, so keep track of how it's evolving at
-the following locations:
+This project is in continuous development, so keep track of how it is evolving
+at the following locations:
 
  * [Project News]({{ site.baseurl }}News)
- * [blueCAPE Lda Twitter](https://twitter.com/bluecapept)
+ * [blueCAPE's Twitter](https://twitter.com/bluecapept)
 
-**Note**: Contributions and collaboration with other companies are very much
-welcome, but we're still working on the releases that we have planned. Please
-follow our news feeds to know when we start accepting contributions.
+**Note**: Contributions and collaboration are very much welcome, but we are
+still working on the releases that we have planned. Please follow our news
+feeds to know when we start accepting contributions.
 
 
 # Support
@@ -36,12 +36,12 @@ follow our news feeds to know when we start accepting contributions.
    [blueCFD project at Github](http://github.com/blueCFD).
 
  * For dedicated support and development contracts related to blueCFD-Core,
-   please [contact us at blueCAPE Lda](http://bluecfd.com/contact).
+   please [contact us at blueCAPE](http://bluecfd.com/contact).
 
 
 # Disclaimers
 
- * [blueCAPE Lda](http://bluecape.com.pt) is responsible for the development and
+ * [blueCAPE](http://bluecape.com.pt) is responsible for the development and
    maintenance of the blueCFD®-Core project.
 
  * blueCFD® is a [registered trade mark](http://bluecfd.com/trademark) of

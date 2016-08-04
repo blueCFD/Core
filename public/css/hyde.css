@@ -248,3 +248,12 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* blueCAPE's theme */
+.theme-bluecape .sidebar {
+  background-color: #0d4e72;
+}
+.theme-bluecape .content a,
+.theme-bluecape .related-posts li a:hover {
+  color: #0d4e72;
+}

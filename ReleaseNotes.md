@@ -66,10 +66,10 @@ ones in previous release notes:
       MS-MPI versions.
 
       * From our experience, MS-MPI versions are usually not compatible with
-      each other, e.g. it's not possible to use the build with MS-MPI 2012 on
+      each other, e.g. it is not possible to use the build with MS-MPI 2012 on
       a machine that has MS-MPI 7.1 installed globally.
       
-      * It's unknown if MPICH2 can run on a machine that has MS-MPI installed.
+      * It is unknown if MPICH2 can run on a machine that has MS-MPI installed.
 
       * Open-MPI does not interfere with MS-MPI nor MPICH2.
 
@@ -97,14 +97,14 @@ ones in previous release notes:
   14. A weird linking bug was worked-around to build `surfaceAutoPatch`.
   This hack will hopefully not be needed in future builds. The issue can
   apparently pop up when building any other executable as well and this bug fix
-  doesn't seem to be applicable to those other occurrences.
+  does not seem to be applicable to those other occurrences.
 
-  15. `foamList` will give several error messages, but don't mind it much,
-  because it's due to duplicate entries that loading additional libraries will
+  15. `foamList` will give several error messages, but do not mind it much,
+  because it is due to duplicate entries that loading additional libraries will
   lead to. Example:
   ```
   Duplicate entry alphaContactAngle in runtime selection table fvPatchField
-  We're sorry, but the application crashed and safe stack tracing isn't
+  We're sorry, but the application crashed and safe stack tracing is n't
   available in this current implementation of blueCFD-Core patches for OpenFOAM.
   ```
 
@@ -112,7 +112,7 @@ ones in previous release notes:
   extending beyond what OpenFOAM currently provides.
 
     * Many or most of the changes done in the test loop, will be contributed to
-    the OpenFOAM Foundation, once we've ensured things work as intended.
+    the OpenFOAM Foundation, once we have ensured things work as intended.
 
 
 
