@@ -20,7 +20,7 @@ The source code for the patched versions are tracked in the
 This project is in continuous development, so keep track of how it's evolving at
 the following locations:
 
- * [Project News](/News)
+ * [Project News]({{ site.baseurl }}News)
  * [blueCAPE Lda Twitter](https://twitter.com/bluecapept)
 
 **Note**: Contributions and collaboration with other companies are very much
