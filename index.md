@@ -32,7 +32,7 @@ follow our news feeds to know when we start accepting contributions.
 
  * The [issue tracker]({{ site.github.repo }}/issues) should be used for problems
    directly associated to the ports of OpenFOAM technology and related open source
-   projects, specificaly those provided in the repositories in the
+   projects, specifically those provided in the repositories in the
    [blueCFD project at Github](http://github.com/blueCFD).
 
  * For dedicated support and development contracts related to blueCFD-Core,

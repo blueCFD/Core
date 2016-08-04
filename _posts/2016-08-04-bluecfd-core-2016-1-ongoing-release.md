@@ -23,7 +23,7 @@ OpenFOAM 4.x build and run natively on Windows. What's missing is the developmen
 infrastructure, which will be released publicly and for free in the binary
 release of blueCFD-Core 2016-1.
 
-Said development insfrastructure is based on [MSys2](https://msys2.github.io/)
+Said development infrastructure is based on [MSys2](https://msys2.github.io/)
 and instructions for developing in a clean installation of MSys2 will be
 provided at [openfoamwiki.net](http://openfoamwiki.net), after we've finalized
 the release of blueCFD-Core 2016-1.
