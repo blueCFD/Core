@@ -17,7 +17,7 @@ author:
   email:          http://bluecfd.com/contact
 
 paginate:         3
-paginate_path:    "News/page:num/"
+paginate_path:    "/News/page:num/"
 
 # Custom vars
 version:          2016-1
