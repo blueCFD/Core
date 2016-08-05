@@ -42,8 +42,8 @@ ones in previous release notes:
 
   8. Certain solvers have a rather steep cyclic dependency loop, which we had
   to figure out a work-around for. This was first implemented in blueCFD-Core
-  2.3-1 for {{twoPhaseEulerFoam}} and {{multiphaseEulerFoam}}; now it has been
-  extended to support the {{reactingEulerFoam}} solver stack as well.
+  2.3-1 for `twoPhaseEulerFoam` and `multiphaseEulerFoam`; now it has been
+  extended to support the `reactingEulerFoam` solver stack as well.
 
   9. We no longer need to rename files that have "Patch" in their name. This was
   fixed in GCC+MinGW itself, as provided in MSys2, which embeds a default manifest:
@@ -117,6 +117,9 @@ ones in previous release notes:
       * Many or most of the changes done in the test loop, will be contributed to
       the OpenFOAM Foundation, once we have ensured things work as intended.
 
+  17. Integrated stack tracing is still not-operational within the ports released
+  with blueCFD-Core 2016-1. Nonetheless, we're aiming to have it operational in
+  the next release.
 
 
 # blueCFD-Core 2.3-1 and older versions
