@@ -28,7 +28,7 @@ ones in previous release notes:
   of `long long`.
 
   5. Introduced a new script `wmake/scripts/makeObjectLongPath` for translating
-  the object file paths to the long form when needed. Used in the {{c++}} rule
+  the object file paths to the long form when needed. Used in the `c++` rule
   files.
 
   6. For some Git clients, the [following is needed](https://github.com/msysgit/msysgit/wiki/Git-cannot-create-a-file-or-directory-with-a-long-path)
