@@ -5,8 +5,22 @@ title: Downloads
 
 # blueCFD-Core 2016-1
 
-**Note:** This version is currently in development. Release should be done soon enough.
+Available installers for Windows 7 through 10, all 64-bit:
 
+  * [blueCFD-Core-2016-1-win64-setup.exe](https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2016-1/blueCFD-Core-2016-1-win64-setup.exe)
+      * blueCFD-Core 2016-1 provides MSys2, OpenFOAM 4.x and ParaView 5.1.2.
+      * 710 MiB installer, SHA1: 
+
+
+Further details:
+
+  * Check in the Release Notes page, section
+  [blueCFD-Core 2016-1: Software provided with installers]({{ site.baseurl }}/ReleaseNotes#bluecfd-core-2016-1-software-provided-with-installers).
+
+  * Instructions on how to build from source code will be provided in the [User Guides]({{ site.baseurl }}/UserGuide) page.
+
+
+<hr>
 
 # blueCFD-Core 2.3-1
 
