@@ -3,17 +3,65 @@ layout: page
 title: Release Notes
 ---
 
+  * [blueCFD-Core 2016-1](#bluecfd-core-2016-1)
+  * [blueCFD-Core 2.3-1 and older versions](#bluecfd-core-23-1-and-older-versions)
+
+<hr>
 # blueCFD-Core 2016-1
 
-These release notes cover the changes made for the 2016-1 release, which covers
-the changes we provide in the releases of the following development branches:
+These release notes cover the changes made for the 2016-1 release, which covers:
 
-  * [blueCFD-Core 2.3-2](https://github.com/blueCFD/OpenFOAM-2.3.x/tree/blueCFD-Core-2.3-2)
-  * [blueCFD-Core 3.0.x](https://github.com/blueCFD/OpenFOAM-dev/tree/blueCFD-Core-3.0.x)
-  * [blueCFD-Core 4.x](https://github.com/blueCFD/OpenFOAM-dev/tree/blueCFD-Core-4.x)
+  * In section [Software provided with installers](#bluecfd-core-2016-1-software-provided-with-installers)
+  is provided further information about the following installers:
+  
+      * [blueCFD-Core-2016-1-win64-setup.exe](https://github.com/blueCFD/Core/releases)
 
-The following list provides the changes cumulative with the already reported
-ones in previous release notes:
+  * In section [Cumulative changes and notes](#bluecfd-core-2016-1-cumulative-changes-and-notes)
+  is listed what we provide in the releases of the following development branches:
+
+      * [blueCFD-Core 2.3-2](https://github.com/blueCFD/OpenFOAM-2.3.x/tree/blueCFD-Core-2.3-2) (soon to be released)
+      * [blueCFD-Core 3.0.x](https://github.com/blueCFD/OpenFOAM-dev/tree/blueCFD-Core-3.0.x) (soon to be released)
+      * [blueCFD-Core 4.x](https://github.com/blueCFD/OpenFOAM-dev/tree/blueCFD-Core-4.x)
+
+
+## blueCFD-Core 2016-1: Software provided with installers
+
+Here is listed the what software and respective versions are provided inside the
+binary installers, namely:
+
+  * [blueCFD-Core-2016-1-win64-setup.exe](https://github.com/blueCFD/Core/releases)
+      * MSys2 x86_64, from 2016-02-05, with several pre-installed packages, including:
+          * GCC 5.3.0
+          * Python 2.7.11
+          * Meld 3.15.1
+          * GDB 7.11
+          * CMake 3.4.1
+          * And several other packages already pre-installed.
+
+      * OpenFOAM 4.x, commit
+      [7dfa780c481b8b79b1ee4d5bcf3e6b839a5ef017](https://github.com/OpenFOAM/OpenFOAM-4.x/commits/7dfa780c481b8b79b1ee4d5bcf3e6b839a5ef017),
+      4th of August 2016.
+
+      * ThirdParty 4.x, commit
+      [eb996b45f4ed40bd6c22a7c2f66a5f091e606f34](https://github.com/OpenFOAM/ThirdParty-4.x/commits/eb996b45f4ed40bd6c22a7c2f66a5f091e606f34),
+      3rd of August 2016.
+
+      * gnuplot 5.0.4
+
+      * Notepad 4.2.25
+
+      * ParaView 5.1.2, 64-bit, built with the options: Qt4, OpenGL2, MPI.
+          * Using the pre-built one from the [ParaView.org website](http://www.paraview.org/download/).
+          * This needs MS-MPI to be installed in your system.
+
+      * MS-MPI 7.1, which can optionally be installed later on, when needed.
+  
+
+
+## blueCFD-Core 2016-1: Cumulative changes and notes
+
+The following list provides the changes cumulative with the already ones listed
+in previous release notes:
 
   1. Switched from using MSys to using MSys2, as the main command line interface.
 
