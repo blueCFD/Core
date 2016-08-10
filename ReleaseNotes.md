@@ -26,7 +26,7 @@ These release notes cover the changes made for the 2016-1 release, which covers:
 
 ## blueCFD-Core 2016-1: Software provided with installers
 
-Here is listed the what software and respective versions are provided inside the
+Here is listed what software and respective versions are provided inside the
 binary installers, namely:
 
   * [blueCFD-Core-2016-1-win64-setup.exe](https://github.com/blueCFD/Core/releases/tag/blueCFD-Core-2016-1)
@@ -55,7 +55,6 @@ binary installers, namely:
           * This needs MS-MPI to be installed in your system.
 
       * MS-MPI 7.1, which can optionally be installed later on, when needed.
-  
 
 
 ## blueCFD-Core 2016-1: Cumulative changes and notes
