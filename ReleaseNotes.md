@@ -14,7 +14,7 @@ These release notes cover the changes made for the 2016-1 release, which covers:
   * In section [Software provided with installers](#bluecfd-core-2016-1-software-provided-with-installers)
   is provided further information about the following installers:
   
-      * [blueCFD-Core-2016-1-win64-setup.exe](https://github.com/blueCFD/Core/releases)
+      * [blueCFD-Core-2016-1-win64-setup.exe](https://github.com/blueCFD/Core/releases/tag/blueCFD-Core-2016-1)
 
   * In section [Cumulative changes and notes](#bluecfd-core-2016-1-cumulative-changes-and-notes)
   is listed what we provide in the releases of the following development branches:
@@ -29,7 +29,7 @@ These release notes cover the changes made for the 2016-1 release, which covers:
 Here is listed the what software and respective versions are provided inside the
 binary installers, namely:
 
-  * [blueCFD-Core-2016-1-win64-setup.exe](https://github.com/blueCFD/Core/releases)
+  * [blueCFD-Core-2016-1-win64-setup.exe](https://github.com/blueCFD/Core/releases/tag/blueCFD-Core-2016-1)
       * MSys2 x86_64, from 2016-02-05, with several pre-installed packages, including:
           * GCC 5.3.0
           * Python 2.7.11
