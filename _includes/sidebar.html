@@ -1,6 +1,8 @@
 <div class="sidebar">
   <div class="container">
-    <img style="display: block; margin: auto;" src="{{ site.baseurl }}/public/blueCAPE_logo_blue_background.png" alt="blueCAPE/blueCFD logo">
+    <a href="{{ site.baseurl }}/">
+    <img class="sidebar-logo" src="{{ site.baseurl }}/public/blueCAPE_logo_blue_background.png" alt="blueCAPE/blueCFD logo">
+    </a>
 
     <div class="sidebar-about">
       <h2>
@@ -12,11 +14,12 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/About">About</a>
       <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/News">News</a>
       <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/Downloads">Downloads</a>
       <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/UserGuide">User Guides</a>
       <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/ReleaseNotes">Release Notes</a>
+      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/FAQ">Frequently Asked Questions</a>
       <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.github.repo }}/issues">Issue Tracker</a>
       <span class="sidebar-nav-item">Latest: <b>blueCFD-Core {{ site.version }}</b></span>
     </nav>

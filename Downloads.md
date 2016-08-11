@@ -9,7 +9,7 @@ Available installers for Windows 7 through 10, all 64-bit:
 
   * [blueCFD-Core-2016-1-win64-setup.exe](https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2016-1/blueCFD-Core-2016-1-win64-setup.exe)
       * blueCFD-Core 2016-1 provides MSys2, OpenFOAM 4.x and ParaView 5.1.2.
-      * 710 MiB installer, SHA1: 
+      * 710 MiB installer, SHA1: `4ba23f6757ccdfd041f2e2627daee7b947f41195`
 
 
 Further details:

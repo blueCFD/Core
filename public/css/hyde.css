@@ -143,6 +143,61 @@ a.sidebar-nav-item:focus {
 
 
 /*
+ * Sidebar icon
+ * 
+ * Resize icon in function of the media height
+ */
+.sidebar-logo {
+  display: block;
+  margin: auto;
+  max-height: 1em;
+}
+
+@media (min-height: 25em) {
+  .sidebar-logo {
+    display: none;
+  }
+}
+
+@media (min-height: 30em) {
+  .sidebar-logo {
+    display: block;
+    max-height: 3em;
+  }
+}
+
+@media (min-height: 35em) {
+  .sidebar-logo {
+    max-height: 4em;
+  }
+}
+
+@media (min-height: 40em) {
+  .sidebar-logo {
+    max-height: 7em;
+  }
+}
+
+@media (min-height: 45em) {
+  .sidebar-logo {
+    max-height: 9em;
+  }
+}
+
+@media (min-height: 50em) {
+  .sidebar-logo {
+    max-height: 11em;
+  }
+}
+
+@media (min-height: 60em) {
+  .sidebar-logo {
+    max-height: 19em;
+  }
+}
+
+
+/*
  * Reverse layout
  *
  * Flip the orientation of the page by placing the `.sidebar` on the right.
