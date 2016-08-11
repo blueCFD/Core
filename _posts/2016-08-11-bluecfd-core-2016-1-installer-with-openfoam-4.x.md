@@ -3,7 +3,7 @@ layout: post
 title: blueCFD-Core 2016-1 (64-bit) Installer now available
 ---
 
-Following the [initial source code release]({{page.previous.url}}) a week ago,
+Following the [initial source code release]({{ site.baseurl }}{{page.previous.url}}) a week ago,
 the very first installer for the next generation of blueCFD-Core is available
 as of today!
 
