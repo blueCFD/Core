@@ -14,11 +14,10 @@ title: The blueCFD-Core project
 
   1. The primary objective of the blueCFD-Core project is to bring OpenFOAM
   technology to run natively in Microsoft Windows, as an open source
-  collaboration with the community that uses this technology.
+  collaboration with and for these communities.
 
   2. Contributions and collaboration are very much welcome and are open to
-  anyone, so that the community that uses OpenFOAM technology can consolidate
-  the efforts of porting software to Windows.
+  anyone.
 
   3. Any source code changes will be made public at the
   [blueCFD project page](https://github.com/blueCFD/), with associated
@@ -28,26 +27,26 @@ title: The blueCFD-Core project
   4. Changes made to the project's supported ports, will be submitted to the
   respective upstream project.
 
-  5. Documentation will be made as open as possible as well, having the primary
-  target for documentation at [openfoamwiki.net](https://openfoamwiki.net),
-  while using [User Guides]({{ site.baseurl }}/UserGuide) acting as an
-  auxiliary documentation location for the provided ports.
+  5. Documentation will be made as open as possible, with the primary
+  target located at [openfoamwiki.net](https://openfoamwiki.net).
+  [User Guides]({{ site.baseurl }}/UserGuide) will act as auxiliary
+  documentation.
 
 
 # Vision
 
 Beyond the mission statement, this project aims to achieve the following goals:
 
-  1. To be able to compile from source code and install OpenFOAM technology on
+  1. Be able to compile from source code and install OpenFOAM technology on
   Microsoft Windows as easily as done on Linux Distributions. This is primarily
-  done by relying on MSys2 to act as the development infrastructure, but the
-  resulting binaries can be used independently from MSys2.
+  done by relying on MSys2 as a development infrastructure. Resulting binaries
+  can be used independently from MSys2.
 
-  2. To be able to have an easy way to install pre-built binaries, either
-  through one-click installers or through MSys2 package manager.
+  2. Provide an easy way to install pre-built binaries, either through
+  one-click installers or through MSys2 package manager.
 
-  3. To make OpenFOAM technology on Windows as ubiquitous as on any other
-  platform, just as if it were running on any Linux Distribution.
+  3. Remove hurdles towards making OpenFOAM technology more common on Windows,
+  just as in any Linux Distribution.
 
   4. To collaborate with the upstream projects for which porting efforts have
   been made, so that the efforts for the blueCFD-Core project are reduced to
@@ -62,21 +61,21 @@ Beyond the mission statement, this project aims to achieve the following goals:
 
 # History
 
-blueCFD® product/service (with a 50€ fee + 6€ shipping for DVD) was first
-launched by blueCAPE in 11th of November of 2009. It was re-branded in
-November 2013 to blueCFD-Core, as blueCAPE's offerings had expanded into more
-products and services.
+blueCFD® product/service was first launched by blueCAPE in 11th of November of
+2009. It was re-branded in November 2013 to blueCFD-Core, as blueCAPE's
+offerings had expanded into more products and services.
 
 On the 15th of December 2011, the blueCFD-SingleCore project had been released,
-with the objective to provide
+with the objective to provide the source code and a basic feature set of
+blueCFD-Core, without MSys and MPI support.
 
 blueCFD® is registered as a trade mark by blueCAPE Lda, since October 2012.
 
 In November 2013, with blueCAPE's launch of blueCFD®-AIR, the original blueCFD
 was re-branded to blueCFD®-Core.
 
-On the 22nd of March 2016, blueCAPE released blueCFD-Core 2.3-1 freely to the
-public. It was soon followed on the 4th of August 2016 with the release of
+On the 22nd of March 2016, blueCAPE released blueCFD-Core 2.3-1 freely. It was
+soon followed on the 4th of August 2016 with the release of
 blueCFD-Core 2016-1, as new generation for this project.
 
 blueCFD(-Core) was originally developed at blueCAPE in 2009 to bring and share
@@ -100,12 +99,10 @@ As time passed by, more and more solutions were made available with various
 degrees of support and price, where a list is maintained on the wiki page
 [Windows at openfoamwiki.net](http://openfoamwiki.net/index.php/Windows).
 
-In 2015, as blueCAPE had the confidence of that they had the most proefficient
-work done on porting OpenFOAM to Windows, they made the decision to extend the
-already existing public porting effort in the [blueCFD project at Github](https://github.com/blueCFD)
-to its full extent. On August 2016, was finally made public and aims towards
-consolidating everyone's efforts under a common project, as the next generation
-of blueCFD-Core.
+In 2015, a decision was made to expand the already existing public porting effort
+in [blueCFD project at Github](https://github.com/blueCFD)
+to its full extent. This decision came to fruition on August 2016, when it was
+finally made public.
 
 
 ## Timeline
@@ -131,5 +128,3 @@ of blueCFD-Core.
 
 *Note*: The majority of version numbers refer to the respective OpenFOAM version,
 e.g. blueCFD 1.6 refers to OpenFOAM 1.6.
-
-
