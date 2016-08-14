@@ -3,6 +3,12 @@ layout: page
 title: Downloads
 ---
 
+* [blueCFD-Core 2016-1](#bluecfd-core-2016-1)
+* [blueCFD-Core 2.3-1](#bluecfd-core-2.3-1)
+* [Download counters](#download-counters)
+
+<hr>
+
 # blueCFD-Core 2016-1
 
 Available installers for Windows 7 through 10, all 64-bit:
@@ -26,3 +32,13 @@ Further details:
 
 The port of an early version of OpenFOAM 2.3.x is available here:
 [blueCFD-Core 2.3 Download Area](http://joomla.bluecape.com.pt/index.php?option=com_remository&Itemid=47&func=select&id=45)
+
+
+<hr>
+
+# Download counters
+
+The following list provides a complete list of downloads per released package:
+
+{% capture wholedownloadlist %}{% include downstats.md %}{% endcapture %}
+{{ wholedownloadlist | markdownify }}
