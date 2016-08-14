@@ -37,12 +37,13 @@ binary installers, namely:
       source software development infrastructure and is more up-to-date than
       the original MSys project. There are several pre-installed packages,
       including:
+          * CMake 3.4.1
           * GCC 5.3.0
+          * GDB 7.11
+          * Git 2.7.2
+          * Meld 3.15.1
           * Python 2.7.11
           * Python 3.5.0
-          * Meld 3.15.1
-          * GDB 7.11
-          * CMake 3.4.1
           * Many other packages are already pre-installed. To get a full list
           after installation, run in MSys2: `pacman -Q`
 
