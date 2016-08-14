@@ -8,8 +8,6 @@
 
 cd ${0%/*} || exit 1
 
-git pull
-
 filename=../_includes/downstats.md
 
 ./updateDownloads.py > $filename
