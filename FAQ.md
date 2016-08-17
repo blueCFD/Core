@@ -48,6 +48,7 @@ where msmpi.dll
 ```
 
 which should give something like this:
+
 ```
 C:\Program Files (x86)\blueCFD-Core-2.3\ThirdParty-2.3\platforms\linuxmingw-w64\msmpi-2012\bin\msmpi.dll
 C:\Windows\System32\msmpi.dll
