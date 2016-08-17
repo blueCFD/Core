@@ -4,7 +4,7 @@ grep "^#" $1 | while read line; do
 
     depth=$(echo $line | sed -e 's=\(^#*\).*=\1=' -e 's=^#==' -e 's=#=  =g')
     line_text=$(echo $line | sed -e 's=^#* *==')
-    line_anchor=$(echo $line_text | sed -e 's/\(.*\)/\L\1/' -e 's= =-=g')
+    line_anchor=$(echo $line_text | sed -e 's/\(.*\)/\L\1/' -e 's= =-=g' -e 's=\.==g' -e 's=`==g' -e 's=,==g')
 
     echo "${depth}* [$line_text](#${line_anchor})"
 
