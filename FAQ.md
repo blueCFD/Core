@@ -3,6 +3,63 @@ layout: page
 title: Frequently Asked Questions
 ---
 
-# In Construction
+List of questions:
 
-This page is still a work in progress.
+  * [`mpirun` no longer works in blueCFD-Core 2.3-1, after installing blueCFD-Core 2016-1](#mpirun-no-longer-works-in-bluecfd-core-23-1-after-installing-bluecfd-core-2016-1)
+  * [Uninstalling MS-MPI 7.1 did not solve problem with `mpirun` in blueCFD-Core 2.3-1](#uninstalling-ms-mpi-71-did-not-solve-problem-with-mpirun-in-bluecfd-core-23-1)
+
+----
+
+### `mpirun` no longer works in blueCFD-Core 2.3-1, after installing blueCFD-Core 2016-1
+
+**Reason**: <br>
+The MS-MPI 7.1 library that is installed by default into Windows with the blueCFD-Core 2016 installer, is in conflict with the MS-MPI 2012 that blueCFD-Core 2.3-1 uses by default.
+
+
+**Solution**: <br>
+There are 3 possible solutions:
+
+  1. The simplest is to uninstall MS-MPI 7.1 from Windows, through the Windows Uninstall interface.
+
+      * Installing MS-MPI 7.1 is only needed to get the initial configurations up and running, so that blueCFD-Core 2016 could use the local installation of MS-MPI 7.1. Therefore, uninstalling it will make both versions work independently just fine.
+
+      * Nonetheless, in order to use multiple machines in parallel for cooperative runs, MS-MPI 7.1 must be installed in Windows.
+
+  2. Change the default MPI option in blueCFD-Core 2.3-1 to Open-MPI, although this means that users must use `foamJob` and not `mpirun` directly.
+
+      * This can be done by going to Windows Start Menu -> blueCFD-Core 2.3 -> Settings -> MPI.
+
+  3. A patch installer for blueCFD-Core 2.3-1 that provides support for MS-MPI 7.1 can be created by blueCAPE.
+
+      * If you need this, please use the [Issue tracker](https://github.com/blueCFD/Core/issues) or use the [Contact form](http://bluecfd.com/contact).
+
+
+
+### Uninstalling MS-MPI 7.1 did not solve problem with `mpirun` in blueCFD-Core 2.3-1
+
+**Reason**: <br>
+Unfortunately sometimes the MS-MPI uninstallers area unable to fully remove all of their DLL files.
+
+**Solution**: <br>
+First, ensure that the problematic DLL files are located where the installer left them. Do this by running the following command in the MSys terminal for blueCFD-Core 2.3-1:
+
+```
+where msmpi.dll
+```
+
+which should give something like this:
+
+```
+C:\Program Files (x86)\blueCFD-Core-2.3\ThirdParty-2.3\platforms\linuxmingw-w64\msmpi-2012\bin\msmpi.dll
+C:\Windows\System32\msmpi.dll
+C:\Program Files (x86)\blueCFD-Core-2.3\ThirdParty-2.3\platforms\linuxmingw-w64\msmpi-2012\lib\msmpi.dll
+```
+
+If this is what you're seeing, then you will need to rename two files at the folder `C:\Windows\System32`:
+
+  * `msmpi.dll` to `msmpi.dll.bak`
+  * `msmpires.dll` to `msmpires.dll.bak`
+
+It's advisable to rename the files through Windows Explorer, so that it asks you about whether the files should be renamed with administrative powers.
+
+This should solve the problem.
