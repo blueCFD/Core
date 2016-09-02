@@ -15,8 +15,8 @@ filename=../_includes/downstats.md
 if ! git diff --quiet --exit-code -- $filename; then
 
   git add $filename && \
-  git commit -m "Download stats updated automatically, based on Github API." && \
-  git pull && \
-  git push
+  git commit -q -m "Download stats updated automatically, based on Github API." && \
+  git pull -q && \
+  git push -q
 
 fi
