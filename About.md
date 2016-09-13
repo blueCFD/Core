@@ -29,7 +29,7 @@ title: The blueCFD-Core project
 
   5. Documentation will be made as open as possible, with the primary
   target located at [openfoamwiki.net](https://openfoamwiki.net).
-  [User Guides]({{ site.baseurl }}/UserGuide) will act as auxiliary
+  The local [User Guides]({{ site.baseurl }}/UserGuide) page will act as auxiliary
   documentation.
 
 
