@@ -79,28 +79,28 @@ soon followed on the 4th of August 2016 with the release of
 blueCFD-Core 2016-1, as new generation for this project.
 
 blueCFD(-Core) was originally developed at blueCAPE in 2009 to bring and share
-their own cross-compilations of OpenFOAM to the scientific and engineering community,
-namely those who are bound to Microsoft's Windows Operating System. They had a
+our own cross-compilations of OpenFOAM to the scientific and engineering community,
+namely those who are bound to Microsoft's Windows Operating System. We had a
 need for having OpenFOAM working in Windows and the tutorials for
 cross-compiling OpenFOAM 1.4.1 and 1.5.0 in Linux for Windows already existed,
 provided by [Symscape](http://www.symscape.com).
 
-At the time of the first release made, Symscape had already launched their
-OpenFlow product when we launched blueCFD, but since our builds are somewhat
+At the time of the first release of blueCFD, Symscape had already launched their
+OpenFlow product (which provided their own port), but since our builds are somewhat
 different, we believed that some competition would also be healthy.
 
-Originally, the same path was taken as Symscape's, namely to publish the
-changes to OpenFOAM as public patches, but making them public and well
-documented at [openfoamwiki.net](https://openfoamwiki.net). The entry point
-for those wiki pages is the following wiki page:
+Originally, a similar path was taken to what was done at Symscape, namely to publish the
+changes to OpenFOAM as public patches, but we instead made them public and fairly detailed
+at [openfoamwiki.net](https://openfoamwiki.net). The entry point for those wiki pages
+is the following wiki page:
 [Tip Cross Compiling OpenFOAM in Linux For Windows with MinGW](http://openfoamwiki.net/index.php/Installation/Windows/Outdated/Tip_Cross_Compiling_OpenFOAM_in_Linux_For_Windows_with_MinGW)
 
 As time passed by, more and more solutions were made available with various
 degrees of support and price, where a list is maintained on the wiki page
 [Windows at openfoamwiki.net](http://openfoamwiki.net/index.php/Windows).
 
-In 2015, a decision was made to expand the already existing public porting effort
-in [blueCFD project at Github](https://github.com/blueCFD)
+In 2015, a decision at blueCAPE was made to expand the already existing public
+porting effort in [blueCFD project at Github](https://github.com/blueCFD)
 to its full extent. This decision came to fruition on August 2016, when it was
 finally made public.
 
