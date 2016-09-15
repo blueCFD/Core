@@ -7,7 +7,7 @@ List of questions:
 
   * [`mpirun` no longer works in blueCFD-Core 2.3-1, after installing blueCFD-Core 2016-1](#mpirun-no-longer-works-in-bluecfd-core-23-1-after-installing-bluecfd-core-2016-1)
   * [Uninstalling MS-MPI 7.1 did not solve problem with `mpirun` in blueCFD-Core 2.3-1](#uninstalling-ms-mpi-71-did-not-solve-problem-with-mpirun-in-bluecfd-core-23-1)
-  * [Problems running tutorials that use #codeStream and/or problems building source code](#problems-running-tutorials-that-use-#codestream-and/or-problems-building-source-code)
+  * [Problems running tutorials that use `codeStream` and/or problems building source code](#problems-running-tutorials-that-use-codestream-and/or-problems-building-source-code)
 
 ----
 
@@ -124,7 +124,7 @@ It's advisable to rename the files through Windows Explorer, so that it asks you
 This should solve the problem.
 
 
-### Problems running tutorials that use #codeStream and/or problems building source code
+### Problems running tutorials that use `codeStream` and/or problems building source code
 
 **Symptom**:
 
@@ -139,7 +139,7 @@ This should solve the problem.
   make: *** [Make/mingw_w64GccDPInt32Opt/version_of_build.o] error 1
   ```
 
-  2. Or if you try running a tutorial case that uses the #codeStream feature - such as
+  2. Or if you try running a tutorial case that uses the `codeStream` feature - such as
   `basic/potentialFoam/cylinder` - and it gives an error message like the following
   inside the log file `log.blockMesh`:
   ```
