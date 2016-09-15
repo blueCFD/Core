@@ -14,3 +14,8 @@ contribute.
 
 A short video tutorial is available at [blueCFD-Core: Install How-To @ YouTube](https://www.youtube.com/watch?v=nl7er2t-TnU) and is shown below as well:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nl7er2t-TnU" frameborder="0" allowfullscreen></iframe>
+
+
+# Instructions for source code developers
+If you're developping or building OpenFOAM technology from source code, then
+check the instructions already [available on our wiki](https://github.com/blueCFD/Core/wiki/).
