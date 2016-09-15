@@ -7,7 +7,7 @@ List of questions:
 
   * [`mpirun` no longer works in blueCFD-Core 2.3-1, after installing blueCFD-Core 2016-1](#mpirun-no-longer-works-in-bluecfd-core-23-1-after-installing-bluecfd-core-2016-1)
   * [Uninstalling MS-MPI 7.1 did not solve problem with `mpirun` in blueCFD-Core 2.3-1](#uninstalling-ms-mpi-71-did-not-solve-problem-with-mpirun-in-bluecfd-core-23-1)
-  * [Problems running tutorials that use `codeStream` and/or problems building source code](#problems-running-tutorials-that-use-codestream-and/or-problems-building-source-code)
+  * [Problems running tutorials that use `codeStream` and/or problems building source code](#problems-running-tutorials-that-use-codestream-andor-problems-building-source-code)
 
 ----
 
