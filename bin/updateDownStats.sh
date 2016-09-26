@@ -21,7 +21,7 @@ if ! git diff --quiet --exit-code -- $filename; then
   git push
 ) > log.git 2>&1
 
-if $? -ne 0
+if [ $? -ne 0 ]
 then
   cat log.git
 fi
