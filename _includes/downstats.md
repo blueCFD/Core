@@ -1,5 +1,5 @@
 File name | # Downloads
 ---: | :---:
-[blueCFD-Core-2016-1-win64-setup.exe](https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2016-1/blueCFD-Core-2016-1-win64-setup.exe) | 2132
-[OpenFOAM-4.x.blueCFD-Core-4.x__blueCFD-Core-2016-1.patch.gz](https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2016-1/OpenFOAM-4.x.blueCFD-Core-4.x__blueCFD-Core-2016-1.patch.gz) | 74
-[ThirdParty-4.x.blueCFD-Core-4.x__blueCFD-Core-2016-1.patch.gz](https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2016-1/ThirdParty-4.x.blueCFD-Core-4.x__blueCFD-Core-2016-1.patch.gz) | 53
+[blueCFD-Core-2016-1-win64-setup.exe](https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2016-1/blueCFD-Core-2016-1-win64-setup.exe) | 2133
+[OpenFOAM-4.x.blueCFD-Core-4.x__blueCFD-Core-2016-1.patch.gz](https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2016-1/OpenFOAM-4.x.blueCFD-Core-4.x__blueCFD-Core-2016-1.patch.gz) | 75
+[ThirdParty-4.x.blueCFD-Core-4.x__blueCFD-Core-2016-1.patch.gz](https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2016-1/ThirdParty-4.x.blueCFD-Core-4.x__blueCFD-Core-2016-1.patch.gz) | 54
