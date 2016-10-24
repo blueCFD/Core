@@ -47,12 +47,9 @@ feeds to know when we start accepting contributions.
  * blueCFD® is a [registered trade mark](http://bluecfd.com/trademark) of
    blueCAPE Lda.
 
- * blueCAPE Lda is in no way associated with [OpenCFD](http://openfoam.com)
-   (ESI Group), nor holds any copyrights over OpenFOAM®.
-
- * This offering is not approved or endorsed by OpenCFD (ESI Group), the
-   producer of the OpenFOAM+ software and owner of the OPENFOAM® and OpenCFD®
-   trade marks.
+ * This offering is not approved or endorsed by [OpenCFD Limited](http://www.openfoam.com),
+   producer and distributor of the OpenFOAM software and owner of the OPENFOAM®
+   and OpenCFD® trade marks.
 
  * blueCAPE Lda is a contributor to the [OpenFOAM Foundation](http://openfoam.org),
    but the majority of the specific modifications needed in the source code
