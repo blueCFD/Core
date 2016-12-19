@@ -41,7 +41,7 @@ The port of an early version of OpenFOAM 2.3.x is available here:
 
 # Download counters
 
-The following list provides a complete list of downloads per released package:
+The following list provides a complete list of accesses to downloadable files for all releases:
 
 {% capture wholedownloadlist %}{% include downstats.md %}{% endcapture %}
 {{ wholedownloadlist | markdownify }}
