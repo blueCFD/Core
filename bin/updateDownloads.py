@@ -8,7 +8,7 @@ websites = [
       'https://api.github.com/repos/blueCFD/Core/releases',
       ]
 
-print 'File name | # Downloads'
+print 'File name | # Accesses'
 print '---: | :---:'
 
 for website in websites:
