@@ -48,8 +48,8 @@ feeds to know when we start accepting contributions.
    blueCAPE Lda.
 
  * This offering is not approved or endorsed by [OpenCFD Limited](http://www.openfoam.com),
-   producer and distributor of the OpenFOAM software and owner of the OPENFOAM®
-   and OpenCFD® trade marks.
+   producer and distributor of the OpenFOAM software via www.openfoam.com and owner of the
+   OPENFOAM® and OpenCFD® trade marks.
 
  * blueCAPE Lda is a contributor to the [OpenFOAM Foundation](http://openfoam.org),
    but the majority of the specific modifications needed in the source code
