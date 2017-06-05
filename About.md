@@ -61,8 +61,8 @@ Beyond the mission statement, this project aims to achieve the following goals:
 
 # History
 
-blueCFD® product/service was first launched by blueCAPE in 11th of November of
-2009. It was re-branded in November 2013 to blueCFD-Core, as blueCAPE's
+blueCFD® product/service was first launched by blueCAPE in 11th of November of 2009.
+It was re-branded in November 2013 to blueCFD-Core, as blueCAPE's
 offerings had expanded into more products and services.
 
 On the 15th of December 2011, the blueCFD-SingleCore project had been released,
@@ -103,6 +103,10 @@ In 2015, a decision at blueCAPE was made to expand the already existing public
 porting effort in [blueCFD project at Github](https://github.com/blueCFD)
 to its full extent. This decision came to fruition on August 2016, when it was
 finally made public.
+
+In February 2017, blueCAPE Lda was renamed to [FSD blueCAPE Lda](http://joomla.bluecape.com.pt/index.php?option=com_content&task=view&id=92&Itemid=2),
+after being acquired by [FS Dynamics](http://fsdynamics.se/), without affecting
+the blueCFD-Core project.
 
 
 ## Timeline
