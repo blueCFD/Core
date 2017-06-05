@@ -61,8 +61,8 @@ Beyond the mission statement, this project aims to achieve the following goals:
 
 # History
 
-blueCFD® product/service was first launched by blueCAPE in 11th of November of
-2009. It was re-branded in November 2013 to blueCFD-Core, as blueCAPE's
+blueCFD® product/service was first launched by blueCAPE in 11th of November of 2009.
+It was re-branded in November 2013 to blueCFD-Core, as blueCAPE's
 offerings had expanded into more products and services.
 
 On the 15th of December 2011, the blueCFD-SingleCore project had been released,
