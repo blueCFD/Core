@@ -64,12 +64,12 @@ command line.
     the address bar from Windows 10; make sure to click on the right side of
     the path so that it goes into editing mode that is shown below:
 
-    ![Example of where to copy the path from]({{ baseurl.url }}/images/ParaView_Path_to_copy.png)
+    ![Example of where to copy the path from]({{ site.baseurl }}/images/ParaView_Path_to_copy.png)
 
  7. Run the ParaView installer for the version you want to use and be certain
     that the correct path is used, as shown in the image below:
 
-    ![Example of where to change the installation path]({{ baseurl.url }}/images/Install_Path_For_ParaView.png)
+    ![Example of where to change the installation path]({{ site.baseurl }}/images/Install_Path_For_ParaView.png)
 
  8. Once ParaView is installed, it should be ready to be used from the
     blueCFD-Core terminal.
