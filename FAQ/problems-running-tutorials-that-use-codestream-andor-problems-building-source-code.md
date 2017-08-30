@@ -3,7 +3,7 @@ layout: faq
 title: Problems running tutorials that use <code>codeStream</code> and/or problems building source code
 ---
 
-**Symptom**:
+## Symptom
 
   1. If you try to build your own source code and get an error like this:
 
@@ -36,7 +36,9 @@ Then this means that the problem is associated with the path having spaces in
 its name, specifically `C:\Program Files\blueCFD-Core-2016`.
 
 
-**Solution**: There two possible solutions:
+## Solution
+
+There two possible solutions:
 
   1. The simplest is to follow the instructions given on our wiki:
   [Quick notes on how to update build](https://github.com/blueCFD/Core/wiki/Quick-notes-on-how-to-update-build),

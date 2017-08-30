@@ -3,10 +3,12 @@ layout: faq
 title: Uninstalling MS-MPI 7.1 did not solve problem with <code>mpirun</code> in blueCFD-Core 2.3-1
 ---
 
-**Reason**: <br>
+## Reason
+
 Unfortunately sometimes the MS-MPI uninstallers area unable to fully remove all of their DLL files.
 
-**Solution**: <br>
+## Solution
+
 First, ensure that the problematic DLL files are located where the installer left them. Do this by running the following command in the MSys terminal for blueCFD-Core 2.3-1:
 
 ```

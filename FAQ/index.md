@@ -20,3 +20,8 @@ List of questions:
   * <div id="silent-installation-options"></div>
     [Silent installation options](silent-installation-options)
 
+  * [Error message _'Your "MINGW*" operating system is not supported by this release of OpenFOAM'_](operating-system-is-not-supported-by-this-release-of-OpenFOAM)
+
+  * [How to install and/or use another version of ParaView](how-to-use-another-version-of-ParaView)
+
+  * **ParaView crashes right after being launched** - see [How to install and/or use another version of ParaView](how-to-use-another-version-of-ParaView)
