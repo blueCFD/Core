@@ -29,3 +29,5 @@ List of questions:
   * [How to use the blueCFD-Core (namely the MSys2) terminal and how to install new packages with the package manager](how-to-use-the-blueCFD-Core-namely-MSys2-terminal-and-install-new-packages)
 
   * [How to install additional software, such as Gmsh](how-to-install-additional-software-such-as-gmsh)
+
+  * [No-slip surfaces show non-zero velocities in ParaView](no-slip-surfaces-show-non-zero-velocities-in-paraview)
