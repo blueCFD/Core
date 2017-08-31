@@ -32,8 +32,7 @@ happened, but it's possible that is was after the user installed something new
 that broke MSys2's search system.
 
 
-
-**Solution**:
+## Solution
 
  1. Comment out the `FOAM_INST_DIR` lines in `OpenFOAM-4.x/etc/bashrc`.
 

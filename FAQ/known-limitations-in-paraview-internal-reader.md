@@ -9,7 +9,7 @@ Over time, there have been several issues detected with using the internal
 problems:
 
  1. Already answered on another FAQ entry:
-    [No-slip surfaces show non-zero velocities in ParaView](no-slip-surfaces-show-non-zero-velocities-in-paraview)
+    [No-slip surfaces show non-zero velocities in ParaView](../no-slip-surfaces-show-non-zero-velocities-in-paraview)
 
 
  2. Certain inclusions of files will not work as intended, such as:

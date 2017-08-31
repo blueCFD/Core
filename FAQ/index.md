@@ -34,3 +34,4 @@ List of questions:
 
   * [Known limitations with the built-in reader in ParaView](known-limitations-in-paraview-internal-reader)
 
+  * [Having problems with application crashing after adding an external application](having-problems-application-crashing-after-adding-external-application)
