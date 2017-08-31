@@ -101,6 +101,6 @@ Uninstall MS-MPI 7.1 from Windows, through the Windows Uninstall interface.
 
  * **Note**: Simply uninstalling it will not fully solve the problem, as further
    detailed in the next Q&A: [Uninstalling MS-MPI 7.1 did not solve problem
-   with `mpirun` in blueCFD-Core 2.3-1](uninstalling-ms-mpi-71-did-not-solve-problem-with-mpirun-in-bluecfd-core-23-1)
+   with `mpirun` in blueCFD-Core 2.3-1](../uninstalling-ms-mpi-71-did-not-solve-problem-with-mpirun-in-bluecfd-core-23-1)
 
 

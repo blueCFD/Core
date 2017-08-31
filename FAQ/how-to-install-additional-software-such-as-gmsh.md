@@ -6,7 +6,7 @@ title: How to install additional software, such as Gmsh
 
 ## Question
 
-As exemplified in the FAQ entry [How to install and/or use another version of ParaView](how-to-use-another-version-of-ParaView),
+As exemplified in the FAQ entry [How to install and/or use another version of ParaView](../how-to-use-another-version-of-ParaView),
 it's possible to change the default installation of ParaView.
 
 But what about adding other applications, such as [Gmsh](http://gmsh.info/)?
