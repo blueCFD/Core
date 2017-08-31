@@ -31,3 +31,6 @@ List of questions:
   * [How to install additional software, such as Gmsh](how-to-install-additional-software-such-as-gmsh)
 
   * [No-slip surfaces show non-zero velocities in ParaView](no-slip-surfaces-show-non-zero-velocities-in-paraview)
+
+  * [Known limitations with the built-in reader in ParaView](known-limitations-in-paraview-internal-reader)
+
