@@ -39,8 +39,7 @@ Windows 7 x64 was not running ParaView 5.1.2 properly, until the
 was installed. After that, ParaView 5.1.2 with start without crashing and work
 properly.
 
-On the other hand, Windows 10 has been reported to work well with several of
-Intel's CPU/GPUs that were known for not supporting OpenGL 2.x on Windows,
-including the ability to run applications through the Windows Remote Desktop
-application, which was not supported in Windows 7.
-
+However, for example, the Intel CPU i3-350m does support OpenGL 2.1, but does
+not provide all of the features that ParaView needs to work properly.
+Therefore, ParaView 5.1.2 will likely not work properly on this generation of
+CPU/GPU.
