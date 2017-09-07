@@ -23,7 +23,7 @@ These release notes cover the changes made for the 2016-2 release, which covers:
 Here is listed what software and respective versions are provided inside the
 binary installers, namely:
 
-  * [blueCFD-Core-2016-1-win64-setup.exe](https://github.com/blueCFD/Core/releases/tag/blueCFD-Core-2016-1)
+  * [blueCFD-Core-2016-2-win64-setup.exe](https://github.com/blueCFD/Core/releases/tag/blueCFD-Core-2016-2)
 
       * [MSys2](http://msys2.github.io/) x86_64, from 2016-02-05.
       We selected [MSys2](http://msys2.github.io/) because it provides an open
