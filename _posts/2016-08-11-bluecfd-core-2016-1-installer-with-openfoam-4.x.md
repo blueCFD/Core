@@ -13,7 +13,7 @@ Released elements are:
       * blueCFD-Core 2016-1 provides MSys2, OpenFOAM 4.x and ParaView 5.1.2.
       * 710 MiB installer, SHA1: `4ba23f6757ccdfd041f2e2627daee7b947f41195`
 
-  * The [Release Notes]({{ site.baseurl }}/ReleaseNotes#bluecfd-core-2016-1-software-provided-with-installers)
+  * The [Release Notes]({{ site.baseurl }}/ReleaseNotes/bluecfd-core-2016-1#software-provided-with-installers)
    page has been updated for this release.
 
   * The [About]({{ site.baseurl }}/About) page has been added, which details

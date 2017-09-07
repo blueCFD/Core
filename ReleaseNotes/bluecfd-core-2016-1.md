@@ -5,12 +5,12 @@ title: Release Notes for blueCFD-Core 2016-1
 
 These release notes cover the changes made for the 2016-1 release, which covers:
 
-  * In section [Software provided with installers](#bluecfd-core-2016-1-software-provided-with-installers)
+  * In section [Software provided with installers](software-provided-with-installers)
   is provided further information about the following installers:
   
       * [blueCFD-Core-2016-1-win64-setup.exe](https://github.com/blueCFD/Core/releases/tag/blueCFD-Core-2016-1)
 
-  * Section [Cumulative changes and notes](#bluecfd-core-2016-1-cumulative-changes-and-notes)
+  * Section [Cumulative changes and notes](#cumulative-changes-and-notes)
   lists what we provide in the following git development branch:
 
       * [blueCFD-Core branch 4.x](https://github.com/blueCFD/OpenFOAM-dev/tree/blueCFD-Core-4.x)
@@ -18,7 +18,7 @@ These release notes cover the changes made for the 2016-1 release, which covers:
 
 <br>
 
-## blueCFD-Core 2016-1: Software provided with installers
+## Software provided with installers
 
 Here is listed what software and respective versions are provided inside the
 binary installers, namely:
@@ -60,10 +60,10 @@ binary installers, namely:
       which can optionally be installed later on, when needed.
 
 
-## blueCFD-Core 2016-1: Cumulative changes and notes
+## Cumulative changes and notes
 
 The following list provides the changes cumulative with the already ones listed
-in previous release notes:
+in [previous release notes](http://joomla.bluecape.com.pt/index.php?option=com_mamblog&Itemid=43&task=show&action=view&id=66):
 
   1. Switched from using MSys to using MSys2, as the main command line interface.
 
