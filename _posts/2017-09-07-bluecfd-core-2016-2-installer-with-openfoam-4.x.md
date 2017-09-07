@@ -25,7 +25,7 @@ Released elements are:
 
   * [blueCFD-Core-2016-2-win64-setup.exe](https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2016-2/blueCFD-Core-2016-2-win64-setup.exe)
       * blueCFD-Core 2016-2 provides MSys2, OpenFOAM 4.x and ParaView 5.1.2.
-      * 726 MiB installer, SHA1: `fb721cb759ca4e5ff400abd291ffc3e4bfb3ddd1`
+      * 726 MiB installer, SHA1: `6925346856d62124971316f5886b18977b49d266`
 
   * The [Release Notes for blueCFD-Core 2016-2]({{ site.baseurl }}/ReleaseNotes/bluecfd-core-2016-2)
     page has been created for this release.
