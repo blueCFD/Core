@@ -3,12 +3,10 @@ layout: page
 title: Release Notes for blueCFD-Core 2016-2
 ---
 
-These release notes cover the changes made for the 2016-2 release, which covers:
+These release notes cover the changes made for the 2016-2 release:
 
-  * In section [Software provided with installers](#software-provided-with-installers)
-  is provided further information about the following installers:
-  
-      * [blueCFD-Core-2016-2-win64-setup.exe](https://github.com/blueCFD/Core/releases/tag/blueCFD-Core-2016-2)
+  * [Software provided with installers](#software-provided-with-installers)
+    lists the software stack made available through blueCFD-Core 2016-2.
 
   * Section [Cumulative changes and notes](#cumulative-changes-and-notes)
   lists what we provide in the following git development branch:
@@ -20,8 +18,7 @@ These release notes cover the changes made for the 2016-2 release, which covers:
 
 ## Software provided with installers
 
-Here is listed what software and respective versions are provided inside the
-binary installers, namely:
+The following software is provided inside the binary installer:
 
   * [blueCFD-Core-2016-2-win64-setup.exe](https://github.com/blueCFD/Core/releases/tag/blueCFD-Core-2016-2)
 
@@ -62,8 +59,8 @@ binary installers, namely:
 
 ## Cumulative changes and notes
 
-The following list provides the changes cumulative with the already ones listed
-in [previous release notes](bluecfd-core-2016-1):
+This release provides the following changes relative to the
+[previous version of blueCFD-Core](bluecfd-core-2016-1):
 
 1. Synced with OpenFOAM 4.x, up to the commit
    [d214c8dfd5ba56dd442bae186fd4fb50dd35c338](https://github.com/OpenFOAM/OpenFOAM-4.x/commits/d214c8dfd5ba56dd442bae186fd4fb50dd35c338),

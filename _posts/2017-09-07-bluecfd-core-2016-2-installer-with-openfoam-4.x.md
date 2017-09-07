@@ -3,14 +3,11 @@ layout: post
 title: blueCFD-Core 2016-2 (64-bit) Installer now available
 ---
 
-It's been over a year since the [previous news post]({{page.previous.url}}),
-but development continued since then into
-[replying and fixing bug reports](https://github.com/blueCFD/Core/issues?q=is%3Aissue+is%3Aclosed),
+Today we release the culmination of all of the bug fixes done since the last post,
+namely [replying and fixing bug reports](https://github.com/blueCFD/Core/issues?q=is%3Aissue+is%3Aclosed),
 synchronizing the
 [blueCFD-Core-4.x branch with OpenFOAM-4.x](https://github.com/blueCFD/OpenFOAM-dev/tree/blueCFD-Core-4.x)
-and [writing FAQ entries]({{ site.baseurl }}/FAQ/).
-
-Today we release the culmination of all of the bug fixes done over this period,
+and [writing FAQ entries]({{ site.baseurl }}/FAQ/),
 as it can be seen from the list of 24 issues that were solved for
 [milestone blueCFD-Core 2016-2](https://github.com/blueCFD/Core/milestone/1?closed=1).
 
