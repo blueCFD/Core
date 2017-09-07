@@ -1,13 +1,7 @@
 ---
 layout: page
-title: Release Notes
+title: Release Notes for blueCFD-Core 2016-1
 ---
-
-  * [blueCFD-Core 2016-1](#bluecfd-core-2016-1)
-  * [blueCFD-Core 2.3-1 and older versions](#bluecfd-core-23-1-and-older-versions)
-
-<hr>
-# blueCFD-Core 2016-1
 
 These release notes cover the changes made for the 2016-1 release, which covers:
 
@@ -17,13 +11,12 @@ These release notes cover the changes made for the 2016-1 release, which covers:
       * [blueCFD-Core-2016-1-win64-setup.exe](https://github.com/blueCFD/Core/releases/tag/blueCFD-Core-2016-1)
 
   * Section [Cumulative changes and notes](#bluecfd-core-2016-1-cumulative-changes-and-notes)
-  lists what we provide in the following git development branches:
+  lists what we provide in the following git development branch:
 
-      * [blueCFD-Core branch 2.3-2](https://github.com/blueCFD/OpenFOAM-2.3.x/tree/blueCFD-Core-2.3-2) (soon to be released)
-      * [blueCFD-Core branch 3.0.x](https://github.com/blueCFD/OpenFOAM-dev/tree/blueCFD-Core-3.0.x) (soon to be released)
       * [blueCFD-Core branch 4.x](https://github.com/blueCFD/OpenFOAM-dev/tree/blueCFD-Core-4.x)
       * **Note**: Each branch refers to the respective OpenFOAM version.
 
+<br>
 
 ## blueCFD-Core 2016-1: Software provided with installers
 
@@ -177,9 +170,3 @@ in previous release notes:
   17. Integrated stack tracing is still not-operational within the ports released
   with blueCFD-Core 2016-1. Nonetheless, we're aiming to have it operational in
   the next release.
-
-
-# blueCFD-Core 2.3-1 and older versions
-
-The release notes for blueCFD-Core 2.3-1 and older versions are provided here:
-[blueCFD-Core Release Notes](http://joomla.bluecape.com.pt/index.php?option=com_mamblog&Itemid=43&task=show&action=view&id=66)
