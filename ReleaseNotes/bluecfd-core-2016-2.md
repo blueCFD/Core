@@ -127,19 +127,19 @@ in [previous release notes](bluecfd-core-2016-1):
 
 12. Fixed [Issue #46](https://github.com/blueCFD/Core/issues/46) by adding the
     FAQ entry:
-    [How to install and/or use another version of ParaView](http://bluecfd.github.io/Core/FAQ/how-to-use-another-version-of-ParaView/)
+    [How to install and/or use another version of ParaView]({{ site.baseurl }}/FAQ/how-to-use-another-version-of-ParaView/)
 
 13. Fixed [Issue #41](https://github.com/blueCFD/Core/issues/41), by adding the
     FAQ entry:
-    [Error message _'Your "MINGW*" operating system is not supported by this release of OpenFOAM'_](http://bluecfd.github.io/Core/FAQ/operating-system-is-not-supported-by-this-release-of-OpenFOAM/)
+    [Error message _'Your "MINGW*" operating system is not supported by this release of OpenFOAM'_]({{ site.baseurl }}/FAQ/operating-system-is-not-supported-by-this-release-of-OpenFOAM/)
 
 14. Fixed [Issue #28](https://github.com/blueCFD/Core/issues/28), by adding
     the FAQ entry:
-    [How to use the blueCFD-Core (namely the MSys2) terminal and how to install new packages with the package manager](http://bluecfd.github.io/Core/FAQ/how-to-use-the-blueCFD-Core-namely-MSys2-terminal-and-install-new-packages)
+    [How to use the blueCFD-Core (namely the MSys2) terminal and how to install new packages with the package manager]({{ site.baseurl }}/FAQ/how-to-use-the-blueCFD-Core-namely-MSys2-terminal-and-install-new-packages)
 
 15. Fixed [Issue #29](https://github.com/blueCFD/Core/issues/29), by adding
     the FAQ entry:
-    [How to install additional software, such as Gmsh](http://bluecfd.github.io/Core/FAQ/how-to-install-additional-software-such-as-gmsh)
+    [How to install additional software, such as Gmsh]({{ site.baseurl }}/FAQ/how-to-install-additional-software-such-as-gmsh)
 
 16. Fixed [Issue #43](https://github.com/blueCFD/Core/issues/43), namely the
     script `Allrun-pre` for the tutorial `mesh/foamyHexMesh/mixerVessel` was
@@ -148,25 +148,25 @@ in [previous release notes](bluecfd-core-2016-1):
 
 17. Fixed [Issue #38](https://github.com/blueCFD/Core/issues/38), by adding the
     FAQ entry:
-    [No-slip surfaces show non-zero velocities in ParaView](http://bluecfd.github.io/Core/FAQ/no-slip-surfaces-show-non-zero-velocities-in-paraview/)
+    [No-slip surfaces show non-zero velocities in ParaView]({{ site.baseurl }}/FAQ/no-slip-surfaces-show-non-zero-velocities-in-paraview/)
 
 18. Fixed [Issue #6](https://github.com/blueCFD/Core/issues/6), by adding the
     FAQ entry:
-    [Known limitations with the built-in reader in ParaView](http://bluecfd.github.io/Core/FAQ/known-limitations-in-paraview-internal-reader/)
+    [Known limitations with the built-in reader in ParaView]({{ site.baseurl }}/FAQ/known-limitations-in-paraview-internal-reader/)
 
 19. Fixed Issues [#11](https://github.com/blueCFD/Core/issues/11) and
     [#13](https://github.com/blueCFD/Core/issues/13), by adding a new FAQ entry
     that covers both issues:
-    [Having problems with application crashing after adding an external application](http://bluecfd.github.io/Core/FAQ/having-problems-application-crashing-after-adding-external-application/)
+    [Having problems with application crashing after adding an external application]({{ site.baseurl }}/FAQ/having-problems-application-crashing-after-adding-external-application/)
 
 20. Fixed [Issue #40](https://github.com/blueCFD/Core/issues/40), by adding
     more details to the FAQ entry
-    [Having other problems with custom source code](http://bluecfd.github.io/Core/FAQ/having-other-problems-with-custom-source-code/),
+    [Having other problems with custom source code]({{ site.baseurl }}/FAQ/having-other-problems-with-custom-source-code/),
     on how to use `gcc` and `g++` when it's installed in a path with spaces
     such as the default path `C:\Program Files`.
 
 21. Added FAQ entry:
-    [Check the GPU support for OpenGL 2.x](http://bluecfd.github.io/Core/FAQ/check-gpu-support-for-opengl-2/)
+    [Check the GPU support for OpenGL 2.x]({{ site.baseurl }}/FAQ/check-gpu-support-for-opengl-2/)
 
 22. Partially fixed the [issue #16](https://github.com/blueCFD/Core/issues/16),
     namely to add Windows Command Line support back into blueCFD-Core. However,
@@ -205,3 +205,7 @@ in [previous release notes](bluecfd-core-2016-1):
     [Quick notes on how to update build](https://github.com/blueCFD/Core/wiki/Quick-notes-on-how-to-update-build),
     specially the section
     [Setting up the work environment](https://github.com/blueCFD/Core/wiki/Quick-notes-on-how-to-update-build#setting-up-the-work-environment).
+
+28. New FAQ entry for [Read-only installation of blueCFD-Core]({{ site.baseurl }}/FAQ/bluecfd-core-read-only-installation)
+    has been created, for explaining how it worked in blueCFD-Core 2016-1 and
+    how it now works in blueCFD-Core 2016-2.

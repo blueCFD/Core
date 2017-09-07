@@ -38,6 +38,9 @@ Released elements are:
     blueCFD-Core, for easier coordination with anyone who wants to contribute
     and/or stay up-to-date on what is being done.
 
+  * A wiki is available for software developers and system installers:
+    [blueCFD-Core wiki](https://github.com/blueCFD/Core/wiki)
+
 The source code provided for the port of OpenFOAM 4.x has been
 [updated here](https://github.com/blueCFD/OpenFOAM-dev/tree/blueCFD-Core-4.x).
 
