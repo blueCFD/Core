@@ -34,6 +34,7 @@ More specifically, if the user starts a new blueCFD-Core terminal and run the
 following commands:
 
 ```
+mkdir $FOAM_RUN
 cd $FOAM_RUN
 cp -r $FOAM_TUTORIALS .
 ```
@@ -67,6 +68,7 @@ This means that everything in blueCFD-Core should work as expected, namely the
 following commands should work as intended:
 
 ```
+mkdir $FOAM_RUN
 cd $FOAM_RUN
 cp -r $FOAM_TUTORIALS .
 ```
@@ -74,18 +76,20 @@ cp -r $FOAM_TUTORIALS .
 (These commands are related to the introductory section of
 [chapter 2 on the OpenFOAM User Guide](https://cfd.direct/openfoam/user-guide/v4-tutorials/#x4-30002).)
 
-The actual location of where the `FOAM_RUN` folder is located, can be
-discovered by running the following commands:
+The actual location of folder the `FOAM_RUN` variable points to and where the
+user (home) folder is now located, can be discovered by running the following
+commands:
 
 ```
-cd $FOAM_RUN
+cd
+echo $FOAM_RUN
 explorer .
 ```
 
 This should open Windows Explorer, in the user's folder, for example at:
 
 ```
-C:\Users\John Smith\blueCFD-Core-2016\ofuser\ofuser-of4
+C:\Users\John Smith\blueCFD-Core-2016\ofuser\
 ```
 
 Where `C:\Users\John Smith\blueCFD-Core-2016\` is the folder that
