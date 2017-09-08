@@ -16,7 +16,7 @@ synchronization with all of the bug fixes available in
 [OpenFOAM 4.x](https://github.com/OpenFOAM/OpenFOAM-4.x/). No new software has
 been added.
 
-As for OpenFOAM 5, this will be released soon in blueCFD-Core 2017-1.
+As for our port of OpenFOAM 5, this will be released soon in blueCFD-Core 2017-1.
 
 Released elements are:
 
