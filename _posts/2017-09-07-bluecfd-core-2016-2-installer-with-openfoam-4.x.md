@@ -33,7 +33,8 @@ Released elements are:
   * A [Project Management page](https://github.com/orgs/blueCFD/projects/1) is
     available to list the tasks that are in development for the next release of
     blueCFD-Core, for easier coordination with anyone who wants to contribute
-    and/or stay up-to-date on what is being done.
+    and/or stay up-to-date on what is being done. **Note:** At the moment,
+    Github only supports organization/project members to see this page.
 
   * A wiki is available for software developers and system installers:
     [blueCFD-Core wiki](https://github.com/blueCFD/Core/wiki)
