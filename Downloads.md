@@ -3,9 +3,33 @@ layout: page
 title: Downloads
 ---
 
+* [blueCFD-Core 2016-2](#bluecfd-core-2016-2)
 * [blueCFD-Core 2016-1](#bluecfd-core-2016-1)
 * [blueCFD-Core 2.3-1](#bluecfd-core-2.3-1)
 * [Download counters](#download-counters)
+
+<hr>
+
+# blueCFD-Core 2016-2
+
+Available installers for Windows 7 through 10, all 64-bit:
+
+  * [blueCFD-Core-2016-2-win64-setup.exe](https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2016-2/blueCFD-Core-2016-2-win64-setup.exe)
+      * blueCFD-Core 2016-2 provides **OpenFOAM 4.x**
+        ([d214c8dfd5](https://github.com/OpenFOAM/OpenFOAM-4.x/commits/d214c8dfd5ba56dd442bae186fd4fb50dd35c338)),
+        ParaView 5.1.2 and MS-MPI 7.1.
+          * [CLI](https://en.wikipedia.org/wiki/Command-line_interface) and
+            development stack included with MSys2.
+          * See [release notes]({{ site.baseurl }}/ReleaseNotes/bluecfd-core-2016-2#software-provided-with-installers)
+            for more details.
+      * 726 MiB installer, SHA1: `6925346856d62124971316f5886b18977b49d266`
+
+
+Further details:
+
+  * Instructions on how to install and build from source code will be provided in the [User Guides]({{ site.baseurl }}/UserGuide) page.
+  * This installer **can be used for updating an existing installation of blueCFD-Core 2016-1**, since it will load the same installation settings.
+
 
 <hr>
 
@@ -19,7 +43,7 @@ Available installers for Windows 7 through 10, all 64-bit:
         ParaView 5.1.2 and MS-MPI 7.1.
           * [CLI](https://en.wikipedia.org/wiki/Command-line_interface) and
             development stack included with MSys2.
-          * See [release notes]({{ site.baseurl }}/ReleaseNotes#bluecfd-core-2016-1-software-provided-with-installers)
+          * See [release notes]({{ site.baseurl }}/ReleaseNotes/bluecfd-core-2016-1#software-provided-with-installers)
             for more details.
       * 710 MiB installer, SHA1: `4ba23f6757ccdfd041f2e2627daee7b947f41195`
 

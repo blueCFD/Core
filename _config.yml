@@ -20,7 +20,7 @@ paginate:         3
 paginate_path:    "/News/page:num/"
 
 # Custom vars
-version:          2016-1
+version:          2016-2
 
 github:
   repo:           https://github.com/blueCFD/Core
