@@ -14,6 +14,8 @@ These release notes cover the changes made for the 2016-1 release, which covers:
   lists what we provide in the following git development branch:
 
       * [blueCFD-Core branch 4.x](https://github.com/blueCFD/OpenFOAM-dev/tree/blueCFD-Core-4.x)
+      * [blueCFD-Core branch 3.0.x](https://github.com/blueCFD/OpenFOAM-dev/tree/blueCFD-Core-3.0.x) - partial port
+      * [blueCFD-Core branch 2.3.x](https://github.com/blueCFD/OpenFOAM-2.3.x/tree/blueCFD-Core-2.3.x) - partial port
       * **Note**: Each branch refers to the respective OpenFOAM version.
 
 <br>
