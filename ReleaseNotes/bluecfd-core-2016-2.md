@@ -193,7 +193,9 @@ This release provides the following changes relative to the
 
 26. Fixed [Issue #34](https://github.com/blueCFD/Core/issues/34), which now
     allows to install blueCFD-Core 2016-2 as read-only and have it
-    automatically operate on the user's own Windows-assigned folders.
+    automatically operate on the user's own Windows-assigned folders. For more
+    details, see the respective FAQ entry:
+    [Read-only installation of blueCFD-Core]({{ site.baseurl }}/FAQ/bluecfd-core-read-only-installation/)
 
 27. Fixed [Issue #52](https://github.com/blueCFD/Core/issues/52), where very
     long path names to object files would lead to failure in compiling and/or
