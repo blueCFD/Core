@@ -20,6 +20,12 @@ installer for 2016-2 and use the same installation steps. The installer should
 inherit the installation settings on its own.
 
 
+# Getting started with blueCFD-Core
+
+A 40 minute video tutorial is available at [blueCFD-Core: OpenFOAM® tutorial 1 How-To @ YouTube](https://www.youtube.com/watch?v=1Ti0yU1JdTQ) and is shown below as well:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Ti0yU1JdTQ" frameborder="0" allowfullscreen></iframe>
+
+
 # Instructions for source code developers
 If you're developping or building OpenFOAM technology from source code, then
 check the instructions already [available on our wiki](https://github.com/blueCFD/Core/wiki/).
