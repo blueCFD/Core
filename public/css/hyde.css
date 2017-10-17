@@ -55,7 +55,7 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 0rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
@@ -148,51 +148,77 @@ a.sidebar-nav-item:focus {
  * Resize icon in function of the media height
  */
 .sidebar-logo {
+  display: hide;
+  margin: auto;
+  max-height: 0em;
+}
+
+.sidebar-fslogo {
   display: block;
   margin: auto;
-  max-height: 1em;
+  max-height: 1.5em;
 }
 
 @media (min-height: 25em) {
+  .sidebar {
+    padding: 0rem 1rem;
+  }
   .sidebar-logo {
-    display: none;
+    display: hide;
   }
 }
 
 @media (min-height: 30em) {
+  .sidebar {
+    padding: 0rem 1rem;
+  }
   .sidebar-logo {
-    display: block;
-    max-height: 3em;
+    display: hide;
   }
 }
 
 @media (min-height: 35em) {
+  .sidebar {
+    padding: 0rem 1rem;
+  }
   .sidebar-logo {
-    max-height: 4em;
+    display: hide;
   }
 }
 
 @media (min-height: 40em) {
+  .sidebar {
+    padding: 0.5rem 1rem;
+  }
+  .sidebar-logo {
+    max-height: 2em;
+  }
+}
+
+@media (min-height: 45em) {
+  .sidebar {
+    padding: 1rem 1rem;
+  }
+  .sidebar-logo {
+    max-height: 6em;
+  }
+}
+
+@media (min-height: 50em) {
+  .sidebar {
+    padding: 1.5rem 1rem;
+  }
   .sidebar-logo {
     max-height: 7em;
   }
 }
 
-@media (min-height: 45em) {
-  .sidebar-logo {
-    max-height: 9em;
-  }
-}
-
-@media (min-height: 50em) {
-  .sidebar-logo {
-    max-height: 11em;
-  }
-}
-
 @media (min-height: 60em) {
+  .sidebar {
+    padding: 2rem 1rem;
+  }
   .sidebar-logo {
-    max-height: 19em;
+    max-height: 15em;
   }
 }
 
