@@ -154,9 +154,11 @@ a.sidebar-nav-item:focus {
 }
 
 .sidebar-fslogo {
-  display: block;
+  display: inline;
+  position: relative;
   margin: auto;
-  max-height: 1.5em;
+  max-height: 1.15rem;
+  bottom: -0.35em;
 }
 
 @media (min-height: 25em) {
