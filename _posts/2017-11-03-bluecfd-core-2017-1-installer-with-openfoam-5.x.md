@@ -13,7 +13,7 @@ Released elements are:
 
   * [blueCFD-Core-2017-1-win64-setup.exe](https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2017-1/blueCFD-Core-2017-1-win64-setup.exe)
       * blueCFD-Core 2017-1 provides MSys2, OpenFOAM 5.x and ParaView 5.4.1.
-      * 725 MiB installer, SHA1: `4367af23e453dde2dd406539a01ef76f2afa2376`
+      * 727 MiB installer, SHA1: `4367af23e453dde2dd406539a01ef76f2afa2376`
 
   * The [Release Notes for blueCFD-Core 2017-1]({{ site.baseurl }}/ReleaseNotes/bluecfd-core-2017-1)
     page has been created for this release.

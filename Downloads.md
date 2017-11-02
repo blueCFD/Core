@@ -23,7 +23,7 @@ Available installers for Windows 7 through 10, all 64-bit:
             development stack included with MSys2.
           * See [release notes]({{ site.baseurl }}/ReleaseNotes/bluecfd-core-2017-1#software-provided-with-installers)
             for more details.
-      * 725 MiB installer, SHA1: `4367af23e453dde2dd406539a01ef76f2afa2376`
+      * 727 MiB installer, SHA1: `4367af23e453dde2dd406539a01ef76f2afa2376`
 
 
 Further details:
