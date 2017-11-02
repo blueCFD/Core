@@ -40,8 +40,8 @@ binary installers, namely:
           after installation, run in MSys2: `pacman -Q`
 
       * OpenFOAM 5.x, commit
-      [00efd091d1f3ff86ae5f87108be985804d520744](https://github.com/OpenFOAM/OpenFOAM-5.x/commits/00efd091d1f3ff86ae5f87108be985804d520744),
-      16th of October 2017.
+      [5f49a69300a1e15b9d927966960751b688e3dd86](https://github.com/OpenFOAM/OpenFOAM-5.x/commits/5f49a69300a1e15b9d927966960751b688e3dd86),
+      31st of October 2017.
 
       * ThirdParty 5.x, commit
       [382629e0285fb2a3fa277dadcbfb5023f619c030](https://github.com/OpenFOAM/ThirdParty-5.x/commits/382629e0285fb2a3fa277dadcbfb5023f619c030),
@@ -67,8 +67,8 @@ This release provides the following changes relative to the
 [previous version of blueCFD-Core](bluecfd-core-2016-2):
 
 1. Upgraded ported code to work with OpenFOAM 5.x (up to commit
-   [00efd091d1f3ff86ae5f87108be985804d520744](https://github.com/OpenFOAM/OpenFOAM-5.x/commit/00efd091d1f3ff86ae5f87108be985804d520744),
-   16th of October 2017), based on the changes done up to blueCFD-Core 2016-2.
+   [5f49a69300a1e15b9d927966960751b688e3dd86](https://github.com/OpenFOAM/OpenFOAM-5.x/commit/5f49a69300a1e15b9d927966960751b688e3dd86),
+   31st of October 2017), based on the changes done up to blueCFD-Core 2016-2.
 
     * Associated to this, MS-MPI 7.1 and 8.1 are supported, with MS-MPI 7.1
       used by default, so that it's easier to support blueCFD-Core 2016.

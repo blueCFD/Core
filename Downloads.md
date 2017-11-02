@@ -17,13 +17,13 @@ Available installers for Windows 7 through 10, all 64-bit:
 
   * [blueCFD-Core-2017-1-win64-setup.exe](https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2017-1/blueCFD-Core-2017-1-win64-setup.exe)
       * blueCFD-Core 2017-1 provides **OpenFOAM 5.x**
-        ([00efd091](https://github.com/OpenFOAM/OpenFOAM-5.x/commits/00efd091d1f3ff86ae5f87108be985804d520744)),
+        ([5f49a693](https://github.com/OpenFOAM/OpenFOAM-5.x/commits/5f49a69300a1e15b9d927966960751b688e3dd86)),
         ParaView 5.4.1 and MS-MPI 7.1 (MS-MPI 8.1 is optional).
           * [CLI](https://en.wikipedia.org/wiki/Command-line_interface) and
             development stack included with MSys2.
           * See [release notes]({{ site.baseurl }}/ReleaseNotes/bluecfd-core-2017-1#software-provided-with-installers)
             for more details.
-      * 725 MiB installer, SHA1: `cb39e58536c2dea94987f74e45adafb128731dcc`
+      * 725 MiB installer, SHA1: `---`
 
 
 Further details:
