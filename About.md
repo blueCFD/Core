@@ -129,6 +129,9 @@ the blueCFD-Core project.
   * 4th of August 2016: blueCAPE began the release of the next generation of
   blueCFD-Core as a publicly free and open source code project, including this
   [website](http://bluecfd.github.io/Core/).
+  
+  * For further developments, please see the [News]({{ site.baseurl }}/News)
+    page.
 
 *Note*: The majority of version numbers refer to the respective OpenFOAM version,
 e.g. blueCFD 1.6 refers to OpenFOAM 1.6.
