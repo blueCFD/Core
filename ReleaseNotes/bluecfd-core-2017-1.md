@@ -23,7 +23,7 @@ binary installers, namely:
 
   * [blueCFD-Core-2017-1-win64-setup.exe](https://github.com/blueCFD/Core/releases/tag/blueCFD-Core-2017-1)
 
-      * [MSys2](http://msys2.github.io/) x86_64, from 2016-02-05.
+      * [MSys2](http://msys2.github.io/) x86_64, from 29th of September 2017.
       We selected [MSys2](http://msys2.github.io/) because it provides an open
       source software development infrastructure and is more up-to-date than
       the original MSys project. There are several pre-installed packages,
