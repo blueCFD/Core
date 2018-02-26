@@ -8,6 +8,6 @@ for more specific details about where the source code came from, for the
 provided binaries for the respective release package.
 
 For example, the source code snapshots provided for
-[blueCFD-Core 2017-1](https://github.com/blueCFD/Core/releases/tag/blueCFD-Core-2017-1),
+[blueCFD-Core 2017-2](https://github.com/blueCFD/Core/releases/tag/blueCFD-Core-2017-2),
 do not have the explicit source code for it. The actual source code origin is
-listed in the [respective release notes](http://bluecfd.github.io/Core/ReleaseNotes/bluecfd-core-2017-1).
+listed in the [respective release notes](http://bluecfd.github.io/Core/ReleaseNotes/bluecfd-core-2017-2).
