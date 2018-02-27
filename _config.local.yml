@@ -6,7 +6,7 @@ permalink:        pretty
 
 # Setup
 title:            blueCFD-Core Project
-tagline:          'Enabling native use of OpenFOAM&reg; for Windows'
+tagline:          'Enabling native use of OpenFOAM&reg; on Windows'
 description:      'Bringing OpenFOAM&reg; technology to Windows.'
 url:              blueCFD.github.io
 baseurl:          
@@ -21,7 +21,7 @@ paginate:         3
 paginate_path:    "/News/page:num/"
 
 # Custom vars
-version:          2017-1
+version:          2017-2
 
 github:
   repo:           https://github.com/blueCFD/Core
