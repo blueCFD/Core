@@ -3,11 +3,36 @@ layout: page
 title: Downloads
 ---
 
+* [blueCFD-Core 2017-2](#bluecfd-core-2017-2)
 * [blueCFD-Core 2017-1](#bluecfd-core-2017-1)
 * [blueCFD-Core 2016-2](#bluecfd-core-2016-2)
 * [blueCFD-Core 2016-1](#bluecfd-core-2016-1)
 * [blueCFD-Core 2.3-1](#bluecfd-core-2.3-1)
 * [Download counters](#download-counters)
+
+<hr>
+
+# blueCFD-Core 2017-2
+
+Available installers for Windows 7 through 10, all 64-bit:
+
+  * [blueCFD-Core-2017-2-win64-setup.exe](https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2017-2/blueCFD-Core-2017-2-win64-setup.exe)
+      * blueCFD-Core 2017-2 provides **OpenFOAM 5.x**
+        ([19576d14](https://github.com/OpenFOAM/OpenFOAM-5.x/commits/19576d14a099e0b21e88a22b57fcf027d00ffa50)),
+        ParaView 5.4.1 and MS-MPI 7.1 (MS-MPI 8.1 is optional).
+          * [CLI](https://en.wikipedia.org/wiki/Command-line_interface) and
+            development stack included with MSys2.
+          * See [release notes]({{ site.baseurl }}/ReleaseNotes/bluecfd-core-2017-2#software-provided-with-installers)
+            for more details.
+      * 790 MiB installer, SHA1: `4df0b7a38eea5363b66e5f7d0d94f50714d59f1a`
+
+
+Further details:
+
+  * Instructions on how to install and build from source code will be provided in the [User Guides]({{ site.baseurl }}/UserGuide) page.
+  * This installer **can be used for updating an existing installation of blueCFD-Core 2017-1**, since it will load the same installation settings.
+  * blueCFD-Core 2017 is installed separately from previous blueCFD-Core versions and should not be used as a direct upgrade.
+
 
 <hr>
 
