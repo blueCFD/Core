@@ -3,6 +3,7 @@ layout: page
 title: Release Notes
 ---
 
+  * [blueCFD-Core 2017-2](bluecfd-core-2017-2)
   * [blueCFD-Core 2017-1](bluecfd-core-2017-1)
   * [blueCFD-Core 2016-2](bluecfd-core-2016-2)
   * [blueCFD-Core 2016-1](bluecfd-core-2016-1)
