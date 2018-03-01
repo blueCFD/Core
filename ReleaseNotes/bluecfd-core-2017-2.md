@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Release Notes for blueCFD-Core 2017-2
+date: 2018-02-27
 ---
 
 These release notes address the changes made for the 2017-2 release, which is
