@@ -15,7 +15,7 @@ Table of content:
 * [Getting started with blueCFD-Core](#getting-started-with-bluecfd-core)
 * [Instructions for source code developers](#instructions-for-source-code-developers)
 * [Building community projects with blueCFD-Core](#building-community-projects-with-bluecfd-core)
-
+* [Graphical User Interface (GUI)](#graphical-user-interface-gui)
 
 # How to Install blueCFD-Core
 
@@ -51,4 +51,27 @@ We are gradually adding ports of popular community projects to blueCFD-Core.
 Please follow the respective wiki pages for the project you want to build:
 
 * [Building swak4Foam with blueCFD Core](https://github.com/blueCFD/Core/wiki/Building-swak4Foam-with-blueCFD-Core)
+
+
+# Graphical User Interface (GUI)
+
+blueCFD-Core does not provide a GUI for using OpenFOAM, but there are already
+several GUIs developed by others that use blueCFD-Core:
+
+* Open Source:
+
+    * **[CFDOF](https://github.com/jaheyns/CfdOF#computational-fluid-dynamics-cfd-workbench-for-freecad)**,
+      which is an addon for FreeCAD, started working
+      with blueCFD-Core 2016-1; it's based on
+      [openSim](https://opensimsa.github.io/download.html), which is also an
+      addon for FreeCAD.
+
+* Commercial:
+
+    * **[DHCAE Tools CastNet](http://www.dhcae-tools.com/CastNet.html)** has worked
+      on Windows with blueCFD-Core since 2009-10, namely when blueCFD-Core was
+      originally launched as _blueCFD 1.6-1_.
+
+    * **[MantiumFlow - CFD Simulation Software by MantiumCAE](http://mantiumflow.com/installation/)**
+      started working with blueCFD-Core 2016-1.
 
