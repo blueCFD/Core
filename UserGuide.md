@@ -14,6 +14,7 @@ Table of content:
 * [How to Install blueCFD-Core 2016-1 and/or 2016-2](#how-to-install-bluecfd-core-2016-1-andor-2016-2)
 * [Getting started with blueCFD-Core](#getting-started-with-bluecfd-core)
 * [Instructions for source code developers](#instructions-for-source-code-developers)
+* [Building community projects with blueCFD-Core](#building-community-projects-with-bluecfd-core)
 
 
 # How to Install blueCFD-Core 2016-1 and/or 2016-2
@@ -35,3 +36,13 @@ A 40 minute video tutorial is available at [blueCFD-Core: OpenFOAM® tutorial 1 
 # Instructions for source code developers
 If you're developping or building OpenFOAM technology from source code, then
 check the instructions already [available on our wiki](https://github.com/blueCFD/Core/wiki/).
+
+
+# Building community projects with blueCFD-Core
+
+We are gradually adding ports of popular community projects to blueCFD-Core.
+
+Please follow the respective wiki pages for the project you want to build:
+
+* [Building swak4Foam with blueCFD Core](https://github.com/blueCFD/Core/wiki/Building-swak4Foam-with-blueCFD-Core)
+
