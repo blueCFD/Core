@@ -11,7 +11,7 @@ as much as possible to the [openfoamwiki.net](https://openfoamwiki.net) website,
 so that everyone can contribute.
 
 Table of content:
-* [How to Install blueCFD-Core 2016-1 and/or 2016-2](#how-to-install-bluecfd-core-2016-1-andor-2016-2)
+* [How to Install blueCFD-Core](#how-to-install-bluecfd-core)
 * [Getting started with blueCFD-Core](#getting-started-with-bluecfd-core)
 * [Instructions for source code developers](#instructions-for-source-code-developers)
 * [Building community projects with blueCFD-Core](#building-community-projects-with-bluecfd-core)
