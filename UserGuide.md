@@ -17,14 +17,20 @@ Table of content:
 * [Building community projects with blueCFD-Core](#building-community-projects-with-bluecfd-core)
 
 
-# How to Install blueCFD-Core 2016-1 and/or 2016-2
+# How to Install blueCFD-Core
 
-A short video tutorial is available at [blueCFD-Core: Install How-To @ YouTube](https://www.youtube.com/watch?v=nl7er2t-TnU) and is shown below as well:
+A short video tutorial is available at [blueCFD-Core: Install How-To @ YouTube](https://www.youtube.com/watch?v=nl7er2t-TnU) for blueCFD-Core 2016-1 and is shown below as well:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nl7er2t-TnU" frameborder="0" allowfullscreen></iframe>
 
-**Note**: If you already have 2016-1 installed, you can update by running the
+**Notes**:
+
+* The installation steps are very similar for blueCFD-Core 2017, therefore this video is still representative.
+
+* If you already have 2016-1 installed, you can update by running the
 installer for 2016-2 and use the same installation steps. The installer should
 inherit the installation settings on its own.
+
+    * The same will happen if you installed blueCFD-Core 2017-1 first and want to install 2017-2 later on.
 
 
 # Getting started with blueCFD-Core
