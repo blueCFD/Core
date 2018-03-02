@@ -56,3 +56,7 @@ Topics:
   * <div id="having-other-problems-with-custom-source-code"></div>
     [Having other problems with custom source code](having-other-problems-with-custom-source-code)
 
+
+# Problems with Gnuplot
+
+  * [`gnuplot help` does not work](gnuplot-help-does-not-work)
