@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Release Notes for blueCFD-Core 2016-2
+date: 2017-09-27
 ---
 
 These release notes cover the changes made for the 2016-2 release:
