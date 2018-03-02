@@ -8,7 +8,7 @@ Topics:
 * [MPI](#mpi)
 * [Problems in/with ParaView](#problems-inwith-paraview)
 * [Problems with building from source code](#problems-with-building-from-source-code)
-
+* [Problems with Gnuplot](#problems-with-gnuplot)
 
 # Installation
 
@@ -60,3 +60,7 @@ Topics:
 # Problems with Gnuplot
 
   * [`gnuplot help` does not work](gnuplot-help-does-not-work)
+
+  * [`gnuplot` and `wgnuplot` don't give feedback/prompt](gnuplot-and-wgnuplot-dont-give-feedback_prompt)
+
+  * [Gnuplot does not plot to PNG, JPG, EPS and PS](gnuplot-does-not-plot-to-image-files)
