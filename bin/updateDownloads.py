@@ -3,12 +3,13 @@
 
 import urllib2
 import json
+import dateutil.parser
 
 websites = [
       'https://api.github.com/repos/blueCFD/Core/releases',
       ]
 
-print 'File name | # Accesses'
+print 'File name | # Accesses | File last updated (year-month-day)'
 print '---: | :---:'
 
 for website in websites:
@@ -21,9 +22,10 @@ for website in websites:
     for releaseItem in data:
 
         for asset in releaseItem['assets']:
+            assetDT = dateutil.parser.parse(asset['updated_at'])
 
             print(
-                  '[%s](%s) | %d' %
-                  (asset['name'], asset['browser_download_url'], asset['download_count'])
+                  '[%s](%s) | %d | %s' %
+                  (asset['name'], asset['browser_download_url'], asset['download_count'], assetDT.strftime('%Y-%m-%d'))
                  )
 
