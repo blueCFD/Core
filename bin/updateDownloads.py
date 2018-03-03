@@ -9,7 +9,7 @@ websites = [
       'https://api.github.com/repos/blueCFD/Core/releases',
       ]
 
-print 'File name | # Accesses | File last updated (year-month-day)'
+print 'File name <br/> File last updated (Y-M-D) | # Accesses'
 print '---: | :---:'
 
 for website in websites:
@@ -25,7 +25,7 @@ for website in websites:
             assetDT = dateutil.parser.parse(asset['updated_at'])
 
             print(
-                  '[%s](%s) | %d | %s' %
-                  (asset['name'], asset['browser_download_url'], asset['download_count'], assetDT.strftime('%Y-%m-%d'))
+                  '[%s](%s) <br/> %s | %d' %
+                  (asset['name'], asset['browser_download_url'], assetDT.strftime('%Y-%m-%d'), asset['download_count'])
                  )
 
