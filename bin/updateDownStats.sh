@@ -8,6 +8,8 @@
 
 cd ${0%/*} || exit 1
 
+git pull || exit 1
+
 export filename=../_includes/downstats.md
 
 ./updateDownloads.py > $filename
@@ -17,7 +19,6 @@ if ! git diff --quiet --exit-code -- $filename; then
 (
   git add $filename && \
   git commit -q -m "Download stats updated automatically, based on Github API." && \
-  git pull && \
   git push
 ) > log.git 2>&1
 
