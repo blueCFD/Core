@@ -79,10 +79,19 @@ several GUIs developed by others that use blueCFD-Core:
 
 * Commercial:
 
+    * **[Butterfly add-on for Rhino CAD](https://www.ladybug.tools/butterfly.html)**
+      can be a bit confusing regarding licenses, namely that
+      [Rhino CAD 3D](https://www.rhino3d.com) is a closed source paid product,
+      but the [Butterfly add-on is open source](https://github.com/ladybug-tools/butterfly).
+
     * **[DHCAE Tools CastNet](http://www.dhcae-tools.com/CastNet.html)** has worked
       on Windows with blueCFD-Core since 2009-10, namely when blueCFD-Core was
       originally launched as _blueCFD 1.6-1_.
 
+    * **[FEATool Multiphysics MATLAB Toolbox](https://www.featool.com)** runs
+      with MATLAB, can be [downloaded for free here](https://www.featool.com/download),
+      with paid upgrades for advanced usage and support. It should work with
+      blueCFD-Core without [special installation instructions](https://www.featool.com/doc/solver.html#install_of).
+
     * **[MantiumFlow - CFD Simulation Software by MantiumCAE](http://mantiumflow.com/installation/)**
       started working with blueCFD-Core 2016-1.
-
