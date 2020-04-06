@@ -16,7 +16,7 @@ author:
   url:            http://www.bluecape.com.pt
   email:          http://bluecfd.com/contact
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate:         3
 paginate_path:    "/News/page:num/"
 
