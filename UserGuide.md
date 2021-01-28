@@ -88,6 +88,10 @@ several GUIs developed by others that use blueCFD-Core:
       on Windows with blueCFD-Core since 2009-10, namely when blueCFD-Core was
       originally launched as _blueCFD 1.6-1_.
 
+    * **[Eddy3D add-on for Rhino CAD](https://www.eddy3d.com)** works with
+      blueCFD-Core 2017-2. This add-on is free, but it also depends on Rhino
+      CAD 3D.
+
     * **[FEATool Multiphysics MATLAB Toolbox](https://www.featool.com)** runs
       with MATLAB, can be [downloaded for free here](https://www.featool.com/download),
       with paid upgrades for advanced usage and support. It should work with
@@ -95,3 +99,7 @@ several GUIs developed by others that use blueCFD-Core:
 
     * **[MantiumFlow - CFD Simulation Software by MantiumCAE](http://mantiumflow.com/installation/)**
       started working with blueCFD-Core 2016-1.
+
+    * **[ESI VA One](https://myesi.esi-group.com/downloads/software-downloads/va-one-2018.0.1)**
+      at least version 2018.0.1 is known to use blueCFD-Core on Windows,
+      uncertain about more recent versions.
