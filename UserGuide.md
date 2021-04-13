@@ -31,8 +31,8 @@ for blueCFD-Core 2016-1 and is shown below as well:
 
 **Notes**:
 
-* The installation steps are very similar for blueCFD-Core 2017, therefore this
-video is still representative.
+* The installation steps are very similar for blueCFD-Core 2017 and 2020,
+therefore this video is still representative.
 
 * If you already have 2016-1 installed, you can update by running the
 installer for 2016-2 and use the same installation steps. The installer should

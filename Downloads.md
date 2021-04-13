@@ -3,12 +3,36 @@ layout: page
 title: Downloads
 ---
 
+* [blueCFD-Core 2020-1](#bluecfd-core-2020-1)
 * [blueCFD-Core 2017-2](#bluecfd-core-2017-2)
 * [blueCFD-Core 2017-1](#bluecfd-core-2017-1)
 * [blueCFD-Core 2016-2](#bluecfd-core-2016-2)
 * [blueCFD-Core 2016-1](#bluecfd-core-2016-1)
 * [blueCFD-Core 2.3-1](#bluecfd-core-2.3-1)
 * [Download counters](#download-counters)
+
+<hr>
+
+# blueCFD-Core 2020-1
+
+Available installers for Windows 7 through 10, all 64-bit:
+
+  * [blueCFD-Core-2020-1-win64-setup.exe](https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2020-1/blueCFD-Core-2020-1-win64-setup.exe)
+      * blueCFD-Core 2020-1 provides **OpenFOAM 8**
+        ([218f49416d](https://github.com/OpenFOAM/OpenFOAM-8/commits/218f49416d26264af7e84df7cbebca25ad43a172)),
+        ParaView 5.6.2 and MS-MPI 7.1.
+          * [CLI](https://en.wikipedia.org/wiki/Command-line_interface) and
+            development stack included with MSys2.
+          * See [release notes]({{ site.baseurl }}/ReleaseNotes/bluecfd-core-2020-1#software-provided-with-installers)
+            for more details.
+      * 830 MiB installer, SHA1: `31c78a935309ece053035e4d2a81ebac5f766c43`
+
+
+Further details:
+
+  * Instructions on how to install and build from source code will be provided in the [User Guides]({{ site.baseurl }}/UserGuide) page.
+  * blueCFD-Core 2020 is installed separately from previous blueCFD-Core versions and should not be used as a direct upgrade.
+
 
 <hr>
 

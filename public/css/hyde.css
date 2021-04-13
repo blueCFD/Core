@@ -159,6 +159,26 @@ a.sidebar-nav-item:focus {
   margin: auto;
   max-height: 1.15rem;
   bottom: -0.35em;
+  float: center;
+}
+
+.sidebar-dblogo {
+  display: inline;
+  position: relative;
+  margin: auto;
+  max-height: 1.40rem;
+  bottom: -0.35em;
+  float: center;
+}
+
+@media (min-width: 48em) {
+  .sidebar-fslogo {
+    float: right;
+  }
+
+  .sidebar-dblogo {
+    float: right;
+  }
 }
 
 @media (min-height: 25em) {
