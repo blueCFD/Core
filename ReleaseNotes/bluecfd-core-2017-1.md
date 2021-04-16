@@ -24,8 +24,8 @@ binary installers, namely:
 
   * [blueCFD-Core-2017-1-win64-setup.exe](https://github.com/blueCFD/Core/releases/tag/blueCFD-Core-2017-1)
 
-      * [MSys2](http://msys2.github.io/) x86_64, from 29th of September 2017.
-      We selected [MSys2](http://msys2.github.io/) because it provides an open
+      * [MSys2](https://msys2.github.io/) x86_64, from 29th of September 2017.
+      We selected [MSys2](https://msys2.github.io/) because it provides an open
       source software development infrastructure and is more up-to-date than
       the original MSys project. There are several pre-installed packages,
       including:
@@ -48,10 +48,10 @@ binary installers, namely:
       [382629e0285fb2a3fa277dadcbfb5023f619c030](https://github.com/OpenFOAM/ThirdParty-5.x/commits/382629e0285fb2a3fa277dadcbfb5023f619c030),
       17th of August 2017.
 
-      * [Notepad2](http://www.flos-freeware.ch/notepad2.html) 4.2.25
+      * [Notepad2](https://www.flos-freeware.ch/notepad2.html) 4.2.25
 
       * ParaView 5.4.1, 64-bit, built with the options: Qt5, OpenGL2, MPI.
-          * Using the pre-built one from the [ParaView.org website](http://www.paraview.org/download/).
+          * Using the pre-built one from the [ParaView.org website](https://www.paraview.org/download/).
           * This needs MS-MPI to be installed in your system.
 
       * [MS-MPI 7.1](https://www.microsoft.com/en-us/download/details.aspx?id=52981)

@@ -97,7 +97,7 @@ problems:
       ```
 
       * Possible solitions are given here:
-        ['turbineSiting tutorial and paraview-3.98.0' thread at CFD-Online](http://www.cfd-online.com/Forums/openfoam-paraview/122678-turbinesiting-tutorial-paraview-3-98-0-a.html)
+        ['turbineSiting tutorial and paraview-3.98.0' thread at CFD-Online](https://www.cfd-online.com/Forums/openfoam-paraview/122678-turbinesiting-tutorial-paraview-3-98-0-a.html)
 
       * **Fixed as at least ParaView 5.1.0.**
 

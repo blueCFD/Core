@@ -28,8 +28,8 @@ binary installers, namely:
 
   * [blueCFD-Core-2016-1-win64-setup.exe](https://github.com/blueCFD/Core/releases/tag/blueCFD-Core-2016-1)
 
-      * [MSys2](http://msys2.github.io/) x86_64, from 2016-02-05.
-      We selected [MSys2](http://msys2.github.io/) because it provides an open
+      * [MSys2](https://msys2.github.io/) x86_64, from 2016-02-05.
+      We selected [MSys2](https://msys2.github.io/) because it provides an open
       source software development infrastructure and is more up-to-date than
       the original MSys project. There are several pre-installed packages,
       including:
@@ -53,10 +53,10 @@ binary installers, namely:
 
       * [gnuplot](https://sourceforge.net/projects/gnuplot/files/gnuplot/5.0.4/) 5.0.4
 
-      * [Notepad2](http://www.flos-freeware.ch/notepad2.html) 4.2.25
+      * [Notepad2](https://www.flos-freeware.ch/notepad2.html) 4.2.25
 
       * ParaView 5.1.2, 64-bit, built with the options: Qt4, OpenGL2, MPI.
-          * Using the pre-built one from the [ParaView.org website](http://www.paraview.org/download/).
+          * Using the pre-built one from the [ParaView.org website](https://www.paraview.org/download/).
           * This needs MS-MPI to be installed in your system.
 
       * [MS-MPI 7.1](https://www.microsoft.com/en-us/download/details.aspx?id=52981),
@@ -66,7 +66,7 @@ binary installers, namely:
 ## Cumulative changes and notes
 
 The following list provides the changes cumulative with the already ones listed
-in [previous release notes](http://joomla.bluecape.com.pt/index.php?option=com_mamblog&Itemid=43&task=show&action=view&id=66):
+in [previous release notes](https://joomla.bluecape.com.pt/index.php?option=com_mamblog&Itemid=43&task=show&action=view&id=66):
 
   1. Switched from using MSys to using MSys2, as the main command line interface.
 

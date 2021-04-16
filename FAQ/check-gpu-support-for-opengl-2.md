@@ -14,7 +14,7 @@ check if this is the problem and how to fix it?
 ## Answer
 
 The company _realtech VR_ provides an application named
-[OpenGL Extensions Viewer](http://realtech-vr.com/admin/glview) which can be
+[OpenGL Extensions Viewer](https://realtech-vr.com/admin/glview) which can be
 used to see the features made available in the current Windows installation.
  
  * You may want to try to download and install it, to confirm which versions of

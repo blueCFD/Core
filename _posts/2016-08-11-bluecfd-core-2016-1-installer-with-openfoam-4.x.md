@@ -24,7 +24,7 @@ The source code provided for the port of OpenFOAM 4.x has been
 
 As mentioned above, the development infrastructure is based on
 [MSys2](https://msys2.github.io/) and instructions for developing in a clean
-installation of MSys2 will be provided at [openfoamwiki.net](http://openfoamwiki.net),
+installation of MSys2 will be provided at [openfoamwiki.net](https://openfoamwiki.net),
 after we have finalized the release of blueCFD-Core 2016-1.
 
 Among the list of pending items to be released include:

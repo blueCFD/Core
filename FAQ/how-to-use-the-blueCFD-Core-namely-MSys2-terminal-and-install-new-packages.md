@@ -16,7 +16,7 @@ terminal).
 
 ## Answer
 
-The [MSys2](http://www.msys2.org) installation that is being used in
+The [MSys2](https://www.msys2.org) installation that is being used in
 blueCFD-Core are using for providing a Linux-like environment does not require
 using `sudo` for installing packages and currently provides two text editors:
 

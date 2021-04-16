@@ -37,7 +37,7 @@ as well as of [ThirdParty-5.x here](https://github.com/blueCFD/ThirdParty-dev/tr
 
 As mentioned above, the development infrastructure is based on
 [MSys2](https://msys2.github.io/) and instructions for developing in a clean
-installation of MSys2 will be provided at [openfoamwiki.net](http://openfoamwiki.net),
+installation of MSys2 will be provided at [openfoamwiki.net](https://openfoamwiki.net),
 as soon as possible.
 
 For a complete list of bug reports, issues and wishes that have been submitted

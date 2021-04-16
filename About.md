@@ -83,7 +83,7 @@ our own cross-compilations of OpenFOAM to the scientific and engineering communi
 namely those who are bound to Microsoft's Windows Operating System. We had a
 need for having OpenFOAM working in Windows and the tutorials for
 cross-compiling OpenFOAM 1.4.1 and 1.5.0 in Linux for Windows already existed,
-provided by [Symscape](http://www.symscape.com).
+provided by [Symscape](https://www.symscape.com).
 
 At the time of the first release of blueCFD, Symscape had already launched their
 OpenFlow product (which provided their own port), but since our builds are somewhat
@@ -93,19 +93,19 @@ Originally, a similar path was taken to what was done at Symscape, namely to pub
 changes to OpenFOAM as public patches, but we instead made them public and fairly detailed
 at [openfoamwiki.net](https://openfoamwiki.net). The entry point for those wiki pages
 is the following wiki page:
-[Tip Cross Compiling OpenFOAM in Linux For Windows with MinGW](http://openfoamwiki.net/index.php/Installation/Windows/Outdated/Tip_Cross_Compiling_OpenFOAM_in_Linux_For_Windows_with_MinGW)
+[Tip Cross Compiling OpenFOAM in Linux For Windows with MinGW](https://openfoamwiki.net/index.php/Installation/Windows/Outdated/Tip_Cross_Compiling_OpenFOAM_in_Linux_For_Windows_with_MinGW)
 
 As time passed by, more and more solutions were made available with various
 degrees of support and price, where a list is maintained on the wiki page
-[Windows at openfoamwiki.net](http://openfoamwiki.net/index.php/Windows).
+[Windows at openfoamwiki.net](https://openfoamwiki.net/index.php/Windows).
 
 In 2015, a decision at blueCAPE was made to expand the already existing public
 porting effort in [blueCFD project at Github](https://github.com/blueCFD)
 to its full extent. This decision came to fruition on August 2016, when it was
 finally made public.
 
-In February 2017, blueCAPE Lda was renamed to [FSD blueCAPE Lda](http://joomla.bluecape.com.pt/index.php?option=com_content&task=view&id=92&Itemid=2),
-after being acquired by [FS Dynamics](http://fsdynamics.se/), without affecting
+In February 2017, blueCAPE Lda was renamed to [FSD blueCAPE Lda](https://joomla.bluecape.com.pt/index.php?option=com_content&task=view&id=92&Itemid=2),
+after being acquired by [FS Dynamics](https://fsdynamics.se/), without affecting
 the blueCFD-Core project.
 
 
@@ -128,7 +128,7 @@ the blueCFD-Core project.
 
   * 4th of August 2016: blueCAPE began the release of the next generation of
   blueCFD-Core as a publicly free and open source code project, including this
-  [website](http://bluecfd.github.io/Core/).
+  [website](https://bluecfd.github.io/Core/).
   
   * For further developments, please see the [News]({{ site.baseurl }}/News)
     page.

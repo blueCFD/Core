@@ -47,7 +47,7 @@ milestone.
 
 As mentioned above, the development infrastructure is based on
 [MSys2](https://msys2.github.io/) and instructions for developing in a clean
-installation of MSys2 will be provided at [openfoamwiki.net](http://openfoamwiki.net),
+installation of MSys2 will be provided at [openfoamwiki.net](https://openfoamwiki.net),
 once we are able to sort out the tasks left for this
 [milestone](https://github.com/blueCFD/Core/milestone/4).
 
