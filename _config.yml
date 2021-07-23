@@ -1,5 +1,6 @@
 # Dependencies
 highlighter:      rouge
+remote_theme: fongandrew/hydeout
 
 # Permalinks
 permalink:        pretty
