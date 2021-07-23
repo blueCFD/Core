@@ -1,6 +1,6 @@
 # Dependencies
 highlighter:      rouge
-remote_theme: poole/hyde
+theme: jekyll-theme-minimal
 
 # Permalinks
 permalink:        pretty
