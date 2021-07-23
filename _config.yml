@@ -1,6 +1,6 @@
 # Dependencies
 highlighter:      rouge
-theme: jekyll-theme-minimal
+remote_theme: mmistakes/minimal-mistakes
 
 # Permalinks
 permalink:        pretty
