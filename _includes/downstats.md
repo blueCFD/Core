@@ -6,7 +6,7 @@ File name <br/> File last updated (Y-M-D) | # Accesses
 [blueCFD-Core-2017-2-win64-setup.exe](https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2017-2/blueCFD-Core-2017-2-win64-setup.exe) <br/> 2018-02-27 | 80509
 [OpenFOAM-5.x.blueCFD-Core-5.x__blueCFD-Core-2017-2.patch.gz](https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2017-2/OpenFOAM-5.x.blueCFD-Core-5.x__blueCFD-Core-2017-2.patch.gz) <br/> 2018-02-27 | 945
 [ThirdParty-5.x.blueCFD-Core-5.x__blueCFD-Core-2017-2.patch.gz](https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2017-2/ThirdParty-5.x.blueCFD-Core-5.x__blueCFD-Core-2017-2.patch.gz) <br/> 2018-02-27 | 435
-[blueCFD-Core-2017-1-win64-setup.exe](https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2017-1/blueCFD-Core-2017-1-win64-setup.exe) <br/> 2017-11-03 | 12656
+[blueCFD-Core-2017-1-win64-setup.exe](https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2017-1/blueCFD-Core-2017-1-win64-setup.exe) <br/> 2017-11-03 | 12657
 [OpenFOAM-5.x.blueCFD-Core-5.x__blueCFD-Core-2017-1.patch.gz](https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2017-1/OpenFOAM-5.x.blueCFD-Core-5.x__blueCFD-Core-2017-1.patch.gz) <br/> 2017-11-03 | 249
 [ThirdParty-5.x.blueCFD-Core-5.x__blueCFD-Core-2017-1.patch.gz](https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2017-1/ThirdParty-5.x.blueCFD-Core-5.x__blueCFD-Core-2017-1.patch.gz) <br/> 2017-11-03 | 174
 [blueCFD-Core-2016-2-win64-setup.exe](https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2016-2/blueCFD-Core-2016-2-win64-setup.exe) <br/> 2017-09-08 | 8564
