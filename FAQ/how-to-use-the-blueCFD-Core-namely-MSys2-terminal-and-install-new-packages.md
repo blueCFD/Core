@@ -24,7 +24,7 @@ using `sudo` for installing packages and currently provides two text editors:
  * **Notepad2** - which can be opened with the command "nano"
 
 As for how to install packages in MSys2, please see the
-[MSys2 project wiki](https://sourceforge.net/p/msys2/wiki/Home/).
+[MSys2 project wiki](https://www.msys2.org/wiki/Home/).
 
 **Note:** updating MSys2 software stack is currently not yet tested with
 blueCFD-Core 2016-1. If you do so, you will likely need to rebuild OpenFOAM 4.x
