@@ -12,4 +12,4 @@ Quick search topics are as follows:
 * [MPI](https://github.com/blueCFD/Core/discussions/categories/q-a?discussions_q=category%3AQ%26A+mpi)
 * [Problems in/with ParaView](https://github.com/blueCFD/Core/discussions/categories/q-a?discussions_q=category%3AQ%26A+ParaView)
 * [Problems with building from source code](https://github.com/blueCFD/Core/discussions/categories/q-a?discussions_q=category%3AQ%26A+source+code)
-* [Problems with Gnuplot](category:Q&A gnuplot)
+* [Problems with Gnuplot](https://github.com/blueCFD/Core/discussions/categories/q-a?discussions_q=category%3AQ%26A+gnuplot)
