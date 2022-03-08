@@ -9,7 +9,7 @@ blueCFD®-Core is an open source project provided by [FSD blueCAPE Lda](http://w
 
 This project provides source code and high quality builds of OpenFOAM® technology
 and related open source projects, as unofficial ports for up-to-date 64 bit Windows
-7 to 10.
+10 and 11 (older versions of blueCFD-Core will work on older versions of Windows).
 
 Additional tweaks, executables and scripts are also provided, in order to
 maintain usability when working within Microsoft Windows Operating Systems.
@@ -34,6 +34,10 @@ feeds to know when we start accepting contributions.
    directly associated to the ports of OpenFOAM technology and related open source
    projects, specifically those provided in the repositories in the
    [blueCFD project at Github](http://github.com/blueCFD).
+
+ * For finding common difficulties and discussing situations related to using
+   blueCFD-Core, please use the [blueCFD-Core Discussions]({{ site.github.repo }}/discussions)
+   forum, as explained at its [welcome page](https://github.com/blueCFD/Core/discussions/166).
 
  * For dedicated support and development contracts related to blueCFD-Core,
    please [contact us at FSD blueCAPE](http://bluecfd.com/contact).
