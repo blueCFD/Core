@@ -147,6 +147,8 @@ abbr[title] {
   border-bottom: 1px dotted #e5e5e5;
 }
 
+
+
 /* Code */
 code,
 pre {
@@ -250,6 +252,11 @@ th {
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
+}
+
+.td-center {
+  text-align:center;
+  vertical-align:middle;
 }
 
 
