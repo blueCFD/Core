@@ -20,7 +20,7 @@ title: News
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older"
-       href="{{ paginator.next_page_path }}">
+       href="{{ paginator.next_page_path | absolute_url }}">
       Older
     </a>
   {% else %}
@@ -28,7 +28,7 @@ title: News
   {% endif %}
   {% if paginator.previous_page %}
     <a class="pagination-item newer"
-       href="{{ paginator.previous_page_path }}">
+       href="{{ paginator.previous_page_path | absolute_url }}">
       Newer
     </a>
   {% else %}
