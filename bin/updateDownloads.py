@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python2
 # Based on https://github.com/asstermo/asstermo.github.io/blob/master/bin/updateDownloads.py
 
 import urllib2
