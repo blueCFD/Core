@@ -141,6 +141,25 @@ a.sidebar-nav-item:focus {
   }
 }
 
+.sponsors-box {
+  padding-left:  0rem;
+  padding-right: 0rem;
+  margin-left:  0rem;
+  margin-right: 0rem;
+  text-align: left;
+  float: left;
+}
+
+.benefactors-box {
+  padding-left:  0rem;
+  padding-right: 0rem;
+  margin-left:  0rem;
+  margin-right: 0rem;
+  text-align: left;
+  float: left;
+}
+
+
 /* Banner
  *
  * Same as content, but stuck at the top
@@ -208,12 +227,38 @@ a.sidebar-nav-item:focus {
   float: center;
 }
 
+.sidebar-dhcaelogo {
+  display: inline;
+  position: relative;
+  margin: auto;
+  max-height: 1.15rem;
+  bottom: -0.35em;
+  float: center;
+}
+
+.sidebar-satechlogo {
+  display: inline;
+  position: relative;
+  margin: auto;
+  max-height: 1.40rem;
+  bottom: -0.35em;
+  float: center;
+}
+
 @media (min-width: 48em) {
   .sidebar-fslogo {
     float: right;
   }
 
   .sidebar-dblogo {
+    float: right;
+  }
+
+  .sidebar-dhcaelogo {
+    float: right;
+  }
+
+  .sidebar-satechlogo {
     float: right;
   }
 }
@@ -250,7 +295,7 @@ a.sidebar-nav-item:focus {
     padding: 0.5rem 1rem;
   }
   .sidebar-logo {
-    max-height: 2em;
+    max-height: 1em;
   }
 }
 
@@ -259,7 +304,7 @@ a.sidebar-nav-item:focus {
     padding: 1rem 1rem;
   }
   .sidebar-logo {
-    max-height: 6em;
+    max-height: 4em;
   }
 }
 
@@ -268,7 +313,7 @@ a.sidebar-nav-item:focus {
     padding: 1.5rem 1rem;
   }
   .sidebar-logo {
-    max-height: 7em;
+    max-height: 5em;
   }
 }
 
@@ -277,7 +322,7 @@ a.sidebar-nav-item:focus {
     padding: 2rem 1rem;
   }
   .sidebar-logo {
-    max-height: 15em;
+    max-height: 10em;
   }
 }
 
