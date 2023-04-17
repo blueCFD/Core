@@ -141,7 +141,7 @@ a.sidebar-nav-item:focus {
   }
 }
 
-.sponsors-box {
+.mainfund-box {
   padding-left:  0rem;
   padding-right: 0rem;
   margin-left:  0rem;
@@ -151,12 +151,14 @@ a.sidebar-nav-item:focus {
 }
 
 .benefactors-box {
+  padding-top:   0.5rem;
   padding-left:  0rem;
   padding-right: 0rem;
   margin-left:  0rem;
   margin-right: 0rem;
   text-align: left;
   float: left;
+  font-size: 0.90em;
 }
 
 
@@ -231,18 +233,22 @@ a.sidebar-nav-item:focus {
   display: inline;
   position: relative;
   margin: auto;
-  max-height: 1.15rem;
+  max-height: 1.0rem;
   bottom: -0.35em;
-  float: center;
+  float: none;
 }
 
 .sidebar-satechlogo {
   display: inline;
   position: relative;
   margin: auto;
-  max-height: 1.40rem;
+  max-height: 1.25rem;
   bottom: -0.35em;
-  float: center;
+  float: none;
+}
+
+.sidebar-copyright {
+  font-size: 0.95em;
 }
 
 @media (min-width: 48em) {
@@ -255,11 +261,11 @@ a.sidebar-nav-item:focus {
   }
 
   .sidebar-dhcaelogo {
-    float: right;
+    float: none;
   }
 
   .sidebar-satechlogo {
-    float: right;
+    float: none;
   }
 }
 
@@ -270,6 +276,27 @@ a.sidebar-nav-item:focus {
   .sidebar-logo {
     display: hide;
   }
+  .sidebar-about h2 {
+    font-size: 1.1rem;
+  }
+  .lead {
+    font-size: 0.85rem;
+    font-weight: 300;
+  }
+  .sidebar-copyright {
+    font-size: 0.75em;
+  }
+  .sidebar-nav-item {
+    display: block;
+    line-height: 1.30;
+    font-size: 0.85rem;
+  }
+  .mainfund-box {
+    font-size: 0.80em;
+  }
+  .benefactors-box {
+    font-size: 0.75em;
+  }
 }
 
 @media (min-height: 30em) {
@@ -278,6 +305,27 @@ a.sidebar-nav-item:focus {
   }
   .sidebar-logo {
     display: hide;
+  }
+  .sidebar-about h2 {
+    font-size: 1.1rem;
+  }
+  .lead {
+    font-size: 0.85rem;
+    font-weight: 300;
+  }
+  .sidebar-copyright {
+    font-size: 0.75em;
+  }
+  .sidebar-nav-item {
+    display: block;
+    line-height: 1.30;
+    font-size: 0.85rem;
+  }
+  .mainfund-box {
+    font-size: 0.80em;
+  }
+  .benefactors-box {
+    font-size: 0.75em;
   }
 }
 
@@ -288,6 +336,27 @@ a.sidebar-nav-item:focus {
   .sidebar-logo {
     display: hide;
   }
+  .sidebar-about h2 {
+    font-size: 1.1rem;
+  }
+  .lead {
+    font-size: 0.9rem;
+    font-weight: 300;
+  }
+  .sidebar-copyright {
+    font-size: 0.75em;
+  }
+  .sidebar-nav-item {
+    display: block;
+    line-height: 1.40;
+    font-size: 0.95rem;
+  }
+  .mainfund-box {
+    font-size: 0.90em;
+  }
+  .benefactors-box {
+    font-size: 0.85em;
+  }
 }
 
 @media (min-height: 40em) {
@@ -295,7 +364,28 @@ a.sidebar-nav-item:focus {
     padding: 0.5rem 1rem;
   }
   .sidebar-logo {
-    max-height: 1em;
+    max-height: 2em;
+  }
+  .sidebar-about h2 {
+    font-size: 1.2rem;
+  }
+  .lead {
+    font-size: 0.9rem;
+    font-weight: 300;
+  }
+  .sidebar-copyright {
+    font-size: 0.90em;
+  }
+  .sidebar-nav-item {
+    display: block;
+    line-height: 1.30;
+    font-size: 0.95rem;
+  }
+  .mainfund-box {
+    font-size: 0.95em;
+  }
+  .benefactors-box {
+    font-size: 0.90em;
   }
 }
 
@@ -306,6 +396,27 @@ a.sidebar-nav-item:focus {
   .sidebar-logo {
     max-height: 4em;
   }
+  .sidebar-about h2 {
+    font-size: 1.3rem;
+  }
+  .lead {
+    font-size: 1.0rem;
+    font-weight: 300;
+  }
+  .sidebar-copyright {
+    font-size: 0.95em;
+  }
+  .sidebar-nav-item {
+    display: block;
+    line-height: 1.50;
+    font-size: 0.95rem;
+  }
+  .mainfund-box {
+    font-size: 1.00em;
+  }
+  .benefactors-box {
+    font-size: 0.95em;
+  }
 }
 
 @media (min-height: 50em) {
@@ -313,7 +424,27 @@ a.sidebar-nav-item:focus {
     padding: 1.5rem 1rem;
   }
   .sidebar-logo {
-    max-height: 5em;
+    max-height: 5.0em;
+  }
+  .sidebar-about h2 {
+    font-size: 1.4rem;
+  }
+  .lead {
+    font-size: 1.15rem;
+    font-weight: 300;
+  }
+  .sidebar-copyright {
+    font-size: 0.95em;
+  }
+  .sidebar-nav-item {
+    display: block;
+    line-height: 1.65;
+  }
+  .mainfund-box {
+    font-size: 1.00em;
+  }
+  .benefactors-box {
+    font-size: 0.95em;
   }
 }
 
@@ -322,7 +453,27 @@ a.sidebar-nav-item:focus {
     padding: 2rem 1rem;
   }
   .sidebar-logo {
-    max-height: 10em;
+    max-height: 12em;
+  }
+  .sidebar-about h2 {
+    font-size: 1.5rem;
+  }
+  .lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+  }
+  .sidebar-copyright {
+    font-size: 0.95em;
+  }
+  .sidebar-nav-item {
+    display: block;
+    line-height: 1.75;
+  }
+  .mainfund-box {
+    font-size: 1.00em;
+  }
+  .benefactors-box {
+    font-size: 0.95em;
   }
 }
 
