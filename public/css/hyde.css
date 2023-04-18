@@ -168,7 +168,6 @@ a.sidebar-nav-item:focus {
  */
 
 .banner {
-  position: fixed;
   background: #FF8367;
   text-align: center;
   padding-left:   1rem;
@@ -186,6 +185,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .banner {
+    position: fixed;
     max-width: 38rem;
     margin-left: 20rem;
     margin-right: 2rem;
@@ -261,7 +261,7 @@ a.sidebar-nav-item:focus {
   }
 
   .sidebar-dhcaelogo {
-    float: none;
+    float: center;
   }
 
   .sidebar-satechlogo {
@@ -477,6 +477,11 @@ a.sidebar-nav-item:focus {
   }
 }
 
+@media (min-width: 0em) {
+  .sidebar {
+    padding-bottom: 8.0rem;
+  }
+}
 
 /*
  * Reverse layout
