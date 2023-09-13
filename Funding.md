@@ -17,7 +17,7 @@ to step-up a notch and kindly request your participation. In return, we are happ
 to recognize your company’s involvement, similarly to the current sponsors on
 the project’s webpage.
 
-Essentially, we would like to invite you to support our 2022 Support Drive.
+Essentially, we would like to invite you to support our 2023 Support Drive.
 
 If you are inclined to assess this proposition, please read on as we
 have more details on what your support can enable in blueCFD-Core.
@@ -73,7 +73,7 @@ and ideas, please note that we have a dedicated
 </table>
 
 <br>
-## The 2022 Support Drive aims to deliver the following:
+## The 2023 Support Drive aims to deliver the following:
 
 <table>
 <thead>
@@ -81,6 +81,7 @@ and ideas, please note that we have a dedicated
     <th>Task</th>
     <th>Description</th>
     <th>Effort (Euro)</th>
+    <th>Funding so far (%)</th>
   </tr>
 </thead>
 <tbody>
@@ -88,51 +89,61 @@ and ideas, please note that we have a dedicated
     <td class="td-center"> <b>1</b> </td>
     <td> Synchronise our developments with OpenFOAM-dev, making it build and run-on Windows. </td>
     <td class="td-center"> 900 </td>
+    <td class="td-center"> 100 </td>
   </tr>
   <tr>
     <td class="td-center"> <b>2</b> </td>
     <td> Automate the sync up between our developments and OpenFOAM-dev, to be able to have weekly builds of it made available automatically. </td>
     <td class="td-center"> 2700 </td>
+    <td class="td-center"> 30 </td>
   </tr>
   <tr>
     <td class="td-center"> <b>3</b> </td>
     <td> Automate of testing whether the weekly builds are working as intended. </td>
     <td class="td-center"> 900 </td>
+    <td class="td-center"> 0 </td>
   </tr>
   <tr>
     <td class="td-center"> <b>4</b> </td>
     <td> Deliver the automated builds as a pacman repository for MSys2, to make it easier for people to stay in-sync with OpenFOAM-dev on Windows. </td>
     <td class="td-center"> 1350 </td>
+    <td class="td-center"> 0 </td>
   </tr>
   <tr>
     <td class="td-center"> <b>5</b> </td>
     <td> Streamline the build+release system of the blueCFD-Core installers. </td>
     <td class="td-center"> 1350 </td>
+    <td class="td-center"> 0 </td>
   </tr>
   <tr>
     <td class="td-center"> <b>6</b> </td>
     <td> Fixing reported bugs and those caught during the tasks above. </td>
     <td class="td-center"> 1800 </td>
+    <td class="td-center"> 0 </td>
   </tr>
   <tr>
     <td class="td-center"> <b>7</b> </td>
-    <td> Release blueCFD-Core 2022-1 with OpenFOAM 10. </td>
+    <td> Release blueCFD-Core 2023-1 with OpenFOAM 11. </td>
     <td class="td-center"> 2700 </td>
+    <td class="td-center"> 0 </td>
   </tr>
   <tr>
     <td class="td-center"> <b>8</b> </td>
-    <td> Add OpenFOAM 10 to the automation loop for a monthly release. </td>
+    <td> Add OpenFOAM 11 to the automation loop for a monthly release. </td>
     <td class="td-center"> 1800 </td>
+    <td class="td-center"> 0 </td>
   </tr>
   <tr>
     <td class="td-center"> <b>9</b> </td>
-    <td> Monitor automation’s results throughout 2022. </td>
+    <td> Monitor automation’s results throughout 2023. </td>
     <td class="td-center"> 900 </td>
+    <td class="td-center"> 0 </td>
   </tr>
   <tr>
     <td class="td-center"> </td>
     <td class="td-right"> <b>Total</b> </td>
     <td class="td-center"> 14400 </td>
+    <td class="td-center"> 14 </td>
   </tr>
 </tbody>
 </table>
