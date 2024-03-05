@@ -24,15 +24,15 @@ have more details on what your support can enable in blueCFD-Core.
 
 **We envision three participation levels:**
 
-  * Sponsor, if you want to help steer the project by contributing development
+  * **Sponsor**, if you want to help steer the project by contributing development
     plans and jointly or exclusively fund them (>5000$US). Your company’s name
     and logo will appear prominently on the project’s webpage, as a Sponsor.
 
-  * Benefactor, if you benefit from blueCFD-Core at your company and would like
+  * **Benefactor**, if you benefit from blueCFD-Core at your company and would like
     to shore up its future availability (>500$US). Your company’s name and logo
     will appear on the project’s webpage as a Benefactor.
 
-  * Patron, if you are an individual or a small company and just want to say
+  * **Patron**, if you are an individual or a small company and just want to say
     thank you, with a tip (any amount). You will be recognized by name/alias.
 
 **Note:** If you need an invoice or prefer to do a bank transfer, please contact
