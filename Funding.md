@@ -26,7 +26,8 @@ have more details on what your support can enable in blueCFD-Core.
 
   * **Sponsor**, if you want to help steer the project by contributing development
     plans and jointly or exclusively fund them (>5000$US). Your company’s name
-    and logo will appear prominently on the project’s webpage, as a Sponsor.
+    and logo will appear prominently on the project’s webpage and on the next
+    major release of the installer, as a Sponsor.
 
   * **Benefactor**, if you benefit from blueCFD-Core at your company and would like
     to shore up its future availability (>500$US). Your company’s name and logo
@@ -36,8 +37,8 @@ have more details on what your support can enable in blueCFD-Core.
     thank you, with a tip (any amount). You will be recognized by name/alias.
 
 **Note:** If you need an invoice or prefer to do a bank transfer, please contact
-us at [donate@bluecfd.com](mailto:donate@bluecfd.com). If you want to provide further input for the project
-and ideas, please note that we have a dedicated
+us at [donate@bluecfd.com](mailto:donate@bluecfd.com). If you want to provide further
+input for the project and ideas, please note that we have a dedicated
 [place for this](https://github.com/blueCFD/Core/discussions/categories/ideas).
 
 
