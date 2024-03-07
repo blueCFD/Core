@@ -104,9 +104,12 @@ porting effort in [blueCFD project at Github](https://github.com/blueCFD)
 to its full extent. This decision came to fruition on August 2016, when it was
 finally made public.
 
-In February 2017, blueCAPE Lda was renamed to [FSD blueCAPE Lda](https://joomla.bluecape.com.pt/index.php?option=com_content&task=view&id=92&Itemid=2),
-after being acquired by [FS Dynamics](https://fsdynamics.se/), without affecting
+In February 2017, blueCAPE Lda was institutionally renamed to [FSD blueCAPE Lda](https://joomla.bluecape.com.pt/index.php?option=com_content&task=view&id=92&Itemid=2),
+after being acquired by [FS Dynamics](https://fsdynamics.se), without affecting
 the blueCFD-Core project.
+
+In March 2024 FSD blueCAPE is now referred to as [FSD Portugal](https://fsdynamics.eu),
+as part of FS Dynamics having been consolidated as an European company.
 
 
 ## Timeline

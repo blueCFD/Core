@@ -1,6 +1,6 @@
 # blueCFD-Core project website
 This is the source code of the website for the blueCFD-Core project, developed
-by [FSD blueCAPE Lda](https://www.bluecape.com.pt).
+by [FSD Portugal](https://fsdynamics.eu/).
 
 The website is rendered here:
     [blueCFD-Core Project website](https://bluecfd.github.io/Core/)

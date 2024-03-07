@@ -5,7 +5,7 @@ title: Home
 
 # Welcome
 
-blueCFD®-Core is an open source project provided by [FSD blueCAPE Lda](http://www.bluecape.com.pt).
+blueCFD®-Core is an open source project provided by [FSD Portugal](https://fsdynamics.eu/).
 
 This project provides source code and high quality builds of OpenFOAM® technology
 and related open source projects, as unofficial ports for up-to-date 64 bit Windows
@@ -21,7 +21,7 @@ This project is in continuous development, so keep track of how it is evolving
 at the following locations:
 
  * [Project News]({{ site.baseurl }}/News)
- * [FSD blueCAPE's Twitter](https://twitter.com/bluecapept)
+ * [FSD Portugal's Twitter](https://twitter.com/bluecapept)
 
 **Note**: Contributions and collaboration are very much welcome, but we are
 still working on the releases that we have planned. Please follow our news
@@ -40,22 +40,24 @@ feeds to know when we start accepting contributions.
    forum, as explained at its [welcome page](https://github.com/blueCFD/Core/discussions/166).
 
  * For dedicated support and development contracts related to blueCFD-Core,
-   please [contact us at FSD blueCAPE](http://bluecfd.com/contact).
+   please [contact us at FSD Portugal](http://bluecfd.com/contact).
 
 
 # Disclaimers
 
- * [FSD blueCAPE](http://bluecape.com.pt) is responsible for the development and
-   maintenance of the blueCFD®-Core project.
+ * [FSD Portugal](https://fsdynamics.eu/) (also known as
+   [FSD blueCAPE](http://bluecape.com.pt))
+   is responsible for the development and maintenance of the blueCFD®-Core
+   project.
 
  * blueCFD® is a [registered trade mark](http://bluecfd.com/trademark) of
-   FSD blueCAPE Lda.
+   FSD Portugal.
 
  * This offering is not approved or endorsed by [OpenCFD Limited](http://www.openfoam.com),
    producer and distributor of the OpenFOAM software via www.openfoam.com and owner of the
    OPENFOAM® and OpenCFD® trade marks.
 
- * FSD blueCAPE Lda is a contributor to the [OpenFOAM Foundation](http://openfoam.org),
+ * FSD Portugal is a contributor to the [OpenFOAM Foundation](http://openfoam.org),
    but the majority of the specific modifications needed in the source code
    for running OpenFOAM natively on Windows, will not be accepted in
    the official releases of OpenFOAM by the OpenFOAM Foundation, mostly due to

@@ -13,8 +13,8 @@ url:              https://blueCFD.github.io
 baseurl:          /Core
 
 author:
-  name:           'FSD blueCAPE Lda'
-  url:            http://www.bluecape.com.pt
+  name:           'FSD Portugal'
+  url:            https://fsdynamics.eu
   email:          http://bluecfd.com/contact
 
 paginate:         3
