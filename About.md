@@ -109,7 +109,7 @@ after being acquired by [FS Dynamics](https://fsdynamics.se), without affecting
 the blueCFD-Core project.
 
 In March 2024 FSD blueCAPE is now referred to as [FSD Portugal](https://fsdynamics.eu),
-as part of FS Dynamics having been consolidated as an European company.
+as part of FS Dynamics having been consolidated as a European company.
 
 
 ## Timeline
