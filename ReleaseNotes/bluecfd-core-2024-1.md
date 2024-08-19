@@ -43,11 +43,11 @@ binary installers, namely:
           after installation, run in MSYS2: `pacman -Q`
 
       * OpenFOAM 12, commit
-      [6aa359dae69662fc09b4f9e64b9a4fc365fef135](https://github.com/OpenFOAM/OpenFOAM-12/commits/6aa359dae69662fc09b4f9e64b9a4fc365fef135),
+      [6aa359dae6](https://github.com/OpenFOAM/OpenFOAM-12/commits/6aa359dae69662fc09b4f9e64b9a4fc365fef135),
       13th of August 2024.
 
       * ThirdParty 12, commit
-      [cab725f5e7929e8f5ec35c54edc493a822355235](https://github.com/OpenFOAM/ThirdParty-12/commits/cab725f5e7929e8f5ec35c54edc493a822355235),
+      [cab725f5e7](https://github.com/OpenFOAM/ThirdParty-12/commits/cab725f5e7929e8f5ec35c54edc493a822355235),
       7th of July 2024.
 
       * [Notepad2](http://www.flos-freeware.ch/notepad2.html) 4.2.25

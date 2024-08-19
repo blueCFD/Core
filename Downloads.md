@@ -20,7 +20,7 @@ Available installers for Windows 10 and 11, all 64-bit:
 
   * [blueCFD-Core-2024-1-win64-setup.exe](https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2024-1/blueCFD-Core-2024-1-win64-setup.exe)
       * blueCFD-Core 2024-1 provides **OpenFOAM 12**
-        ([6aa359dae69662fc09b4f9e64b9a4fc365fef135](https://github.com/OpenFOAM/OpenFOAM-12/commits/6aa359dae69662fc09b4f9e64b9a4fc365fef135)),
+        ([6aa359dae6](https://github.com/OpenFOAM/OpenFOAM-12/commits/6aa359dae69662fc09b4f9e64b9a4fc365fef135)),
         ParaView 5.11.2 and MS-MPI 10.1.2.
           * [CLI](https://en.wikipedia.org/wiki/Command-line_interface) and
             development stack included with MSYS2.
