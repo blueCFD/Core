@@ -35,7 +35,7 @@ as well as of [ThirdParty-12 here](https://github.com/blueCFD/ThirdParty-dev/tre
 As mentioned above, the development infrastructure is based on
 [MSYS2](https://www.msys2.org/). As listed in the [Funding page](Funding) page,
 one of our objectives is to provide updates and builds of OpenFOAM via MSYS2
-package manager, however this is not yet avaiable with this release. That said,
+package manager, however this is not yet available with this release. That said,
 instructions are available on blueCFD-Core's wiki on:
 
   1. [Preparing a new MSYS2 installation for blueCFD‐Core development](https://github.com/blueCFD/Core/wiki/Preparing-a-new-MSYS2-installation-for-blueCFD%E2%80%90Core-development)
@@ -45,7 +45,7 @@ instructions are available on blueCFD-Core's wiki on:
 For a complete list of bug reports, issues and wishes that have been submitted
 to the blueCFD-Core project, see the
 [Issue Tracker page](https://github.com/blueCFD/Core/issues). For example, a
-complete list of issues and tasks that were conducted for developping
+complete list of issues and tasks that were conducted for developing
 blueCFD-Core 2024-1, are available there:
 [milestone blueCFD-Core 2024-1](https://github.com/blueCFD/Core/milestone/8?closed=1).
 
