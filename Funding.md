@@ -94,14 +94,14 @@ input for the project and ideas, please note that we have a dedicated
     <td> Synchronise our developments with OpenFOAM-dev, making it build and run-on Windows. </td>
     <td class="td-center"> 900 </td>
     <td class="td-center"> 100 </td>
-    <td class="td-center"> 40 </td>
+    <td class="td-center"> 100 </td>
   </tr>
   <tr>
     <td class="td-center"> <b>2</b> </td>
     <td> Automate the sync up between our developments and OpenFOAM-dev, to be able to have weekly builds of it made available automatically. </td>
     <td class="td-center"> 2700 </td>
-    <td class="td-center"> 30 </td>
-    <td class="td-center"> 50 </td>
+    <td class="td-center"> 43.5 </td>
+    <td class="td-center"> 90 </td>
   </tr>
   <tr>
     <td class="td-center"> <b>3</b> </td>
@@ -115,7 +115,7 @@ input for the project and ideas, please note that we have a dedicated
     <td> Monitor automation’s results throughout 2024. </td>
     <td class="td-center"> 900 </td>
     <td class="td-center"> 0 </td>
-    <td class="td-center"> 0 </td>
+    <td class="td-center"> 50 </td>
   </tr>
   <tr>
     <td rowspan="2" class="td-center">Second</td>
@@ -130,7 +130,7 @@ input for the project and ideas, please note that we have a dedicated
     <td> Streamline the build+release system of the blueCFD-Core installers. </td>
     <td class="td-center"> 1350 </td>
     <td class="td-center"> 0 </td>
-    <td class="td-center"> 0 </td>
+    <td class="td-center"> 20 </td>
   </tr>
   <tr>
     <td class="td-center">Third</td>
@@ -138,15 +138,15 @@ input for the project and ideas, please note that we have a dedicated
     <td> Fixing reported bugs and those caught during the tasks above. </td>
     <td class="td-center"> 1800 </td>
     <td class="td-center"> 0 </td>
-    <td class="td-center"> 0 </td>
+    <td class="td-center"> 90 </td>
   </tr>
   <tr>
     <td class="td-center">Fourth</td>
     <td class="td-center"> <b>8</b> </td>
     <td> Release blueCFD-Core 2024-1 with OpenFOAM 12. </td>
     <td class="td-center"> 2700 </td>
-    <td class="td-center"> 0 </td>
-    <td class="td-center"> 0 </td>
+    <td class="td-center"> 100 </td>
+    <td class="td-center"> 100 </td>
   </tr>
   <tr>
     <td class="td-center">Fifth</td>
@@ -154,15 +154,15 @@ input for the project and ideas, please note that we have a dedicated
     <td> Add OpenFOAM 12 to the automation loop for a monthly release. </td>
     <td class="td-center"> 1800 </td>
     <td class="td-center"> 0 </td>
-    <td class="td-center"> 0 </td>
+    <td class="td-center"> 40 </td>
   </tr>
   <tr>
     <td class="td-center"> </td>
     <td class="td-center"> </td>
     <td class="td-right"> <b>Total</b> </td>
     <td class="td-center"> 14400 </td>
-    <td class="td-center"> 14 </td>
-    <td class="td-center"> 14 </td>
+    <td class="td-center"> 33 </td>
+    <td class="td-center"> 63 </td>
   </tr>
 </tbody>
 </table>
