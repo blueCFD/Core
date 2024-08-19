@@ -5,6 +5,7 @@ title: blueCFD-Core 2024-1 (64-bit) Installer now available
 
 Today we release blueCFD-Core 2024-1, which provides OpenFOAM 12 as a native
 build for Windows, with OpenFOAM binaries acting as normal Windows applications.
+This was possible thanks to our various sponsors, benefactors and donators!
 
 The installer for blueCFD-Core 2024-1 is installed separately from 
 older blueCFD-Core versions, therefore these installations can coexist.
