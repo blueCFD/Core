@@ -7,15 +7,19 @@
 
     {% include sidebar.html %}
 
-    {% unless page.url == "/Funding/" %}
+    {% unless page.url == "/Funding/" or page.url == "/Privacy/" %}
     <div class="banner">
     <h2><a class="banner-a" href="{{ site.baseurl }}/Funding">Support drive 2024: help fund blueCFD-Core!</a></h3>
     </div>
     {% endunless %}
 
     <div class="content container">
-
       {{ content }}
+    </div>
+
+    <div class="content">
+      <hr>
+      <a href="{{ site.baseurl }}/Privacy" style="font-size: 0.8em;">Our Privacy Policy</a>
     </div>
 
   </body>
