@@ -17,7 +17,7 @@ Released elements are:
       * 1173 MiB installer, SHA1: `87a16cd49ba891c9a5ff24d6c24b832e44f6cee7`
       * **WARNING (2024-08-21)**: We strongly suggest that you install in a path without
         spaces in the names for the folders, for example:
-          * `C:\blueCFD-Core\2024-1\`
+          * `C:\blueCFD-Core\2024\`
           * For more details, see [Issue #257](https://github.com/blueCFD/Core/issues/257).
 
   * The [Release Notes for blueCFD-Core 2024-1]({{ site.baseurl }}/ReleaseNotes/bluecfd-core-2024-1)

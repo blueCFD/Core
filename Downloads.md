@@ -21,7 +21,7 @@ Available installers for Windows 10 and 11, all 64-bit:
   * [blueCFD-Core-2024-1-win64-setup.exe](https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2024-1/blueCFD-Core-2024-1-win64-setup.exe)
       * **WARNING**: We strongly suggest that you install in a path without
         spaces in the names for the folders, for example:
-          * `C:\blueCFD-Core\2024-1\`
+          * `C:\blueCFD-Core\2024\`
           * For more details, see [Issue #257](https://github.com/blueCFD/Core/issues/257).
       * blueCFD-Core 2024-1 provides **OpenFOAM 12**
         ([6aa359dae6](https://github.com/OpenFOAM/OpenFOAM-12/commits/6aa359dae69662fc09b4f9e64b9a4fc365fef135)),
