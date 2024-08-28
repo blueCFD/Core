@@ -15,8 +15,9 @@ Released elements are:
   * [blueCFD-Core-2024-1-win64-setup.exe](https://github.com/blueCFD/Core/releases/download/blueCFD-Core-2024-1/blueCFD-Core-2024-1-win64-setup.exe)
       * blueCFD-Core 2024-1 provides MSYS2, OpenFOAM 12 and ParaView 5.11.2.
       * 1173 MiB installer, SHA1: `87a16cd49ba891c9a5ff24d6c24b832e44f6cee7`
-      * **WARNING (2024-08-21)**: We strongly suggest that you install in a path without
-        spaces in the names for the folders, for example:
+      * <span class="blink_underline">**WARNING (2024-08-21)**</span>: You must
+        install in a path without spaces in the names for the folders, for
+        example:
           * `C:\blueCFD-Core\2024\`
           * For more details, see [Issue #257](https://github.com/blueCFD/Core/issues/257).
 

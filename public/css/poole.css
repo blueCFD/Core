@@ -286,6 +286,33 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
+/* Blink trick from https://github.com/UltCombo/blink-tag */
+@-webkit-keyframes blink {
+  50% {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+  }
+  100% {
+    text-decoration: ;
+    text-decoration-style: ;
+  }
+}
+@keyframes blink {
+  50% {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+  }
+  100% {
+    text-decoration: ;
+    text-decoration-style: ;
+  }
+}
+
+.blink_underline
+{
+  -webkit-animation: blink 2s steps(1, start) infinite;
+  animation: blink 2s steps(1, start) infinite;
+}
 
 /*
  * Container
