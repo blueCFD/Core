@@ -77,29 +77,24 @@ several GUIs developed by others that use blueCFD-Core:
       [openSim](https://opensimsa.github.io/download.html), which is also an
       addon for FreeCAD.
 
-* Commercial:
-
-    * **[Butterfly add-on for Rhino CAD](https://www.ladybug.tools/butterfly.html)**
-      can be a bit confusing regarding licenses, namely that
-      [Rhino CAD 3D](https://www.rhino3d.com) is a closed source paid product,
-      but the [Butterfly add-on is open source](https://github.com/ladybug-tools/butterfly).
+* Commercial (in order of development activity):
 
     * **[DHCAE Tools CastNet](http://www.dhcae-tools.com/CastNet.html)** has worked
       on Windows with blueCFD-Core since 2009-10, namely when blueCFD-Core was
       originally launched as _blueCFD 1.6-1_.
 
     * **[Eddy3D add-on for Rhino CAD](https://www.eddy3d.com)** works with
-      blueCFD-Core 2017-2. This add-on is free, but it also depends on Rhino
-      CAD 3D.
-
-    * **[FEATool Multiphysics MATLAB Toolbox](https://www.featool.com)** runs
-      with MATLAB, can be [downloaded for free here](https://www.featool.com/download),
-      with paid upgrades for advanced usage and support. It should work with
-      blueCFD-Core without [special installation instructions](https://www.featool.com/doc/solver.html#install_of).
+      blueCFD-Core 2017 and 2020. This add-on is free, but it also depends
+      on Rhino CAD 3D which is paid.
 
     * **[MantiumFlow - CFD Simulation Software by MantiumCAE](http://mantiumflow.com/installation/)**
-      started working with blueCFD-Core 2016-1.
+      works with blueCFD-Core 2016 ad 2017.
 
-    * **[ESI VA One](https://myesi.esi-group.com/downloads/software-downloads/va-one-2018.0.1)**
-      at least version 2018.0.1 is known to use blueCFD-Core on Windows,
-      uncertain about more recent versions.
+    * **[Butterfly add-on for Rhino CAD](https://www.ladybug.tools/butterfly.html)**
+      can be a bit confusing regarding licenses, namely that
+      [Rhino CAD 3D](https://www.rhino3d.com) is a closed source paid product,
+      but the [Butterfly add-on is open source](https://github.com/ladybug-tools/butterfly).
+
+
+**Note**: Other GUIs used blueCFD-Core in the past, but are no longer using it
+(September 2024).
