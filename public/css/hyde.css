@@ -215,7 +215,7 @@ a.sidebar-nav-item:focus {
   display: inline;
   position: relative;
   margin: auto;
-  max-height: 1.15rem;
+  max-height: 0.6rem;
   bottom: -0.35em;
   float: center;
 }
